@@ -1,0 +1,22 @@
+Before you get started translating, there are a few things you should know.
+
+General Considerations:
+1. You translate what's on the RIGHT side in the .php files.
+2. .php files are just .txt files with a different extension, you can open them in any text editor.
+3. Some texts are omitted from the files, such as Terms of Service, for legal reasons. Image buttons are also
+   omitted for now, but will likely be added for translation later.
+4. If you have any trouble, you can contact us at "translators@dischan.org".
+5. If you don't understand git, you can send your translations to the above email, however it is preferred
+   that you learn how to use it. Github has many excellent tutorials and help pages on their site: https://help.github.com/
+6. You don't have to translate absolutely everything, even partial translations are appreciated.
+
+Setting up for a new language:
+If you are translating into a new langauge, copy the contents of the EN directory, and rename it to the two character
+language code that you are translating to (ex. DE for German, ES for spanish, etc.). If you do not know the code,
+you can usually find it from searching your language on Wikipedia.
+
+If you come across something you cannot or do not want to translate, simply leave the English version there. Do not erase or
+leave anything blank.
+
+Conclusion:
+That's everything. Those of us at Dischan thank you for your help, and happy translating!
