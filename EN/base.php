@@ -46,6 +46,10 @@ $siteStrings = array_merge($siteStrings, array(
 	'bottom'		=> 'Bottom',
 	'top'		=> 'Top',
 	'contents'		=> 'Contents',
+	'usernameNotes'		=> 'A-Z, 0-9, and _- case insensitive',
+	'forgotPass'		=> 'Forgot your pass?',
+	'sortBy'		=> 'sort by',
+	'newest'		=> 'newest',
 ));
 
 ?>

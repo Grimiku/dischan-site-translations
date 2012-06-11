@@ -9,6 +9,7 @@ General Considerations:
 5. If you don't understand git, you can send your translations to the above email, however it is preferred
    that you learn how to use it. Github has many excellent tutorials and help pages on their site: https://help.github.com/
 6. You don't have to translate absolutely everything, even partial translations are appreciated.
+7. Capitalization should be maintained, if applicable to your language
 
 Setting up for a new language:
 If you are translating into a new langauge, copy the contents of the EN directory, and rename it to the two character
