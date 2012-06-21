@@ -42,6 +42,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'backtotop'			=> 'back to top',
 	'caseSensitive'		=> 'case sensitive, min 8 characters',
 	'show'		=> 'Show',
+	'showLwr'		=> 'show',
 	'page'		=> 'Page',
 	'bottom'		=> 'Bottom',
 	'top'		=> 'Top',
