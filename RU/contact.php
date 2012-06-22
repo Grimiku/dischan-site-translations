@@ -13,11 +13,11 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'contact'			=> 'Contact',
-	'contactText'		=> 'If you\'d like to contact us, please feel free to fill out the form below. We\'ll try to get back to you as soon as we can.',
-	'message'			=> 'Message',
-	'name'				=> 'Name',
-	'send'				=> 'Send',
+	'contact'			=> 'Связатся с нами',
+	'contactText'		=> 'Если вы хотите связатся с нами, вы можете заполнить анкету данную ниже. Мы попытаемся вам ответить как можно раньше.',
+	'message'			=> 'Сообщение',
+	'name'				=> 'Имя',
+	'send'				=> 'Отправить',
 ));
 
 ?>
