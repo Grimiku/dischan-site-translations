@@ -13,11 +13,10 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'press'				=> 'Press',
-	'pressPara'				=> '<p>Are you doing a story on visual novels? Interested in writing about Dischan or its products? If you
-							have any questions, or would like an interview with any member of the team, please send us a message via our <a href = "contact.php">contact form</a>.</p>
+	'press'				=> 'Пресса',
+	'pressPara'				=> '<p>Вы пишите статью об визуальных новеллах? Хотите написать о Dischan или о её продуктах? Если у вас имеются любые вопросы, или хотите интервью с любым членом нашей команды, то пожалуста отправьте нам сообщение через <a href = "contact.php">контактную форму</a>.</p>
 							<br />
-							<p>There is also a <a href = "files/press_package.zip">press package</a> which you can download. It contains some graphics you can use, as well as cursory information about Dischan and its products.</p>',
+							<p>Так же у нас имеется <a href = "files/press_package.zip">пресс кит</a> который вы можете скачать. Он содержит некоторые изображения которые вы можете использовать и краткую информацию о Dischan и её продуктах.</p>',
 ));
 
 ?>
