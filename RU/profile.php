@@ -13,19 +13,19 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'posts'				=> 'Posts',
-	'lastOnline'				=> 'Last Online',
-	'dateJoined'		=> 'Date Joined',
-	'beforeTracking'	=> 'Before we started keeping track.',
-	'never'			=> 'Never.',
-	'userNotFound'		=> 'User not found.',
-	'realName'			=> 'Real Name',
-	'about'				=> 'About',
-	'message'			=> 'Message',
-	'location'			=> 'Location',
+	'posts'				=> 'Посты',
+	'lastOnline'				=> 'Последний раз онлайн',
+	'dateJoined'		=> 'Дата регистрации',
+	'beforeTracking'	=> 'До того как мы начали следить.',
+	'never'			=> 'Никогда.',
+	'userNotFound'		=> 'Пользователь не найден.',
+	'realName'			=> 'Настоящее имя',
+	'about'				=> 'Об',
+	'message'			=> 'Сообщение',
+	'location'			=> 'Местоположение',
 	'website'			=> 'Website',
-	'profile'			=> 'Profile',
-	'tagNote'		=> 'Note: All tags are still functional',
+	'profile'			=> 'Профиль',
+	'tagNote'		=> 'Внимание: Все тэги функционируют',
 ));
 
 ?>
