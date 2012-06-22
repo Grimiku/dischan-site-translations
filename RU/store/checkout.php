@@ -20,28 +20,23 @@ $siteStrings = array_merge($siteStrings, array(
 	'thankYouExcl'		=> 'Спасибо!',
 	'youreAwesome'		=> 'Вы <i>крутые</i>.',
 	'loggedInPurchaseConf'	=> 'Чек был отправлен на почтовый ящик зарегестрированый на Dischan. Все заказаные дигитальные товары будут доступны в <a href = "library.php">библиотеке</a> как только транзакция завершится.<br /><br />
-							Благодарим вас за покупку. Если у вас возникнут проблемы, стесняйтесь и <a href = "http://dischan.org/contact.php">свяжитесь с нами</a>.',
-	'guestPurchaseConf'		=> 'Чек был отправлен на почтовый ящик зарегестрированый на PayPal, включая все ссылки и серийные ключи на дигитальные товары.<br /><br />
-							Благодарим вас за покупку. Если у вас возникнут проблемы, стесняйтесь и <a href = "http://dischan.org/contact.php">свяжитесь с нами</a>.',
+							Благодарим вас за покупку. Если у вас возникнут проблемы, не стесняйтесь <a href = "http://dischan.org/contact.php">связатся с нами</a>.',
+	'guestPurchaseConf'		=> 'Чек был отправлен на почтовый ящик зарегестрированый на PayPal, включая все ссылки и ключи на дигитальные товары.<br /><br />
+							Благодарим вас за покупку. Если у вас возникнут проблемы, не стесняйтесь <a href = "http://dischan.org/contact.php">связатся с нами</a>.',
 	'returnToStore'		=> 'вернутся в магазин',
 	'comfirmationUppr'		=> 'Подтверждение',
-	'shippingHandlingCost'		=> 'shipping & handling',
+	'shippingHandlingCost'		=> 'доставка',
 	'total'		=> 'Сумма',
-	'reviewOrder'		=> 'Please review your order for accuracy before proceeding with payment.',
-	'dischanCartPaypal'		=> 'Your purchase will show up in paypal as \'Dischan Cart\'.',
-	'purchaseTOS'		=> 'Please note: By making a purchase
-									on the dischan store, you agree to our <a target="_blank" href = "../termsandconditions.php">terms of service</a> and <a target="_blank" href = "../privacypolicy.php">privacy policy</a>.',
-	'giftCaps'		=> 'GIFT',
-	'cartEmpty'		=> 'It looks like your cart is empty! Please return to the <a href = "index.php">store</a>. If you believe you recieved this notification in error, please <a href = "http://dischan.org/contact.php">contact us.</a>',
-	'signUp'		=> 'Sign Up',
-	'checkoutLoginMsg'		=> 'Logging in or registering allows for us to attach your purchases to your account and store them in your library. This makes it easy for you to download your games, music, and/or other products later.',
+	'reviewOrder'		=> 'Пожалуста перепроверьте ваш заказ перед оплатой.',
+	'dischanCartPaypal'		=> 'Ваша покупка будет помечена в PayPal как \'Dischan Cart\'.',
+	'purchaseTOS'		=> 'Примите во внимание: Совершая покупку в магазине Dischan, вы подтверждаете что согласны с <a target="_blank" href = "../termsandconditions.php">условиями пользования</a> и <a target="_blank" href = "../privacypolicy.php">политикой конфиденциальности</a>.',
+	'giftCaps'		=> 'ПОДАРОК',
+	'cartEmpty'		=> 'Похоже что ваше корзина пустая! Пожалуста вернитесь в <a href = "index.php">магазин</a>. Если вы считаете что получили это оповещение по ошибке, не стесняйтесь <a href = "http://dischan.org/contact.php">связатся с нами.</a>',
+	'signUp'		=> 'Зарегистрироватся',
+	'checkoutLoginMsg'		=> 'Заход или регистрация учётной записи позволяет нам прикреплять ваши покупки к вашей учётной записи и хранить их в вашей библиотеке. Это облегчает скачку ваших игр, музыки, и/или других товаров в будущем.',
 	'guestCheckout'		=> 'Guest Checkout',
-	'guestCheckMsg1'		=> 'A guest account will use your paypal email to keep track of your purchases. All digital goods will require you to
-					enter both your email and product serial to download. Registering or logging in is the recommended
-					way to make purchases.',
-	'guestCheckMsg2'		=> 'Please note that at any time after your purchase you may still create an account and add in your products using your
-					paypal email and serials.',
-					
+	'guestCheckMsg1'		=> 'Гости могут пользоватся PayPal что бы следить за покупками. Все дигитальные товары потребуют чтобы вы вводили как ваш электронный адрес так и ключ для скачки товара. Рекомендуется зарегистрироватся или зайти в вашу учётною запись чтобы совершать покупки.',
+	'guestCheckMsg2'		=> 'Учтите что в любой момент после совершение оплаты вы можете создать учётную запись и добавить ваши покупки изпользуя ваш PayPal E-Mail и ключ.',
 ));
 
 ?>
