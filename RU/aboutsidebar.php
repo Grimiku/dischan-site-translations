@@ -25,7 +25,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'helpfaq'			=> 'Помощь/FAQ',
 	'forum'				=> 'Форум',
 	'about'				=> 'О нас',
-	'legal'				=> 'Legal',
+	'legal'				=> 'Права',
 	'termsandcond'		=> 'Условия пользования',
 	'privacy'			=> 'Политика конфиденциальности',
 ));
