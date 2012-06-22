@@ -15,10 +15,10 @@ if (empty($siteStrings) || !is_array($siteStrings))
 $siteStrings = array_merge($siteStrings, array(
 	'search'				=> 'поиск',
 	'queryShort'				=> 'Запрос слишком короткий',
-	'resultsFor'		=> 'Результаты для ',
+	'resultsFor'		=> 'Результаты для',
 	'max'	=> 'max',
 	'postedIn'			=> 'написанно в',
-	'noResults'		=> 'Не найдено результатов для ',
+	'noResults'		=> 'Не найдено результатов для',
 ));
 
 ?>

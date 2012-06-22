@@ -13,21 +13,21 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'company'			=> 'Company',
+	'company'			=> 'Компания',
 	'apply'				=> 'Apply',
-	'positions'			=> 'Positions',
-	'contactus'			=> 'Contact Us',
+	'positions'			=> 'Вакансии',
+	'contactus'			=> 'Связатся с нами',
 	'faq'				=> 'FAQ',
-	'support'			=> 'Support',
-	'press'				=> 'Press',
-	'international'		=> 'Internationalization and Translations',
-	'store'				=> 'Store',
-	'helpfaq'			=> 'Help/FAQ',
-	'forum'				=> 'Forum',
-	'about'				=> 'About',
+	'support'			=> 'Помощь',
+	'press'				=> 'Пресса',
+	'international'		=> 'Интернализация и переводы',
+	'store'				=> 'Магазин',
+	'helpfaq'			=> 'Помощь/FAQ',
+	'forum'				=> 'Форум',
+	'about'				=> 'О нас',
 	'legal'				=> 'Legal',
-	'termsandcond'		=> 'Terms and Conditions',
-	'privacy'			=> 'Privacy Policy',
+	'termsandcond'		=> 'Условия',
+	'privacy'			=> 'Политика конфиденциальности',
 ));
 
 ?>

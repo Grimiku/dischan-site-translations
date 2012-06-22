@@ -13,21 +13,21 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'search'				=> 'Search',
-	'keywords'				=> 'keywords...',
-	'remove'	=> 'remove',
-	'sidebarGift'			=> 'GIFT',
-	'recipient'		=> 'recipient',
-	'nothingYet'		=> 'Nothing yet!',
-	'byGenre'				=> 'By Genre',
-	'byType'		=> 'By Type',
-	'info'		=> 'Info',
-	'redeemSerials'		=> 'Redeem Serials',
-	'support'		=> 'Support',
-	'helpFAQ'		=> 'Help/FAQ',
-	'tAndCond'		=> 'Terms and Conditions',
-	'priPolicy'		=> 'Privacy Policy',
-	'contact'		=> 'Contact',
+	'search'				=> 'Поиск',
+	'keywords'				=> 'ключевые слова...',
+	'remove'	=> 'убрать',
+	'sidebarGift'			=> 'ПОДАРОК',
+	'recipient'		=> 'получатель',
+	'nothingYet'		=> 'Ещё ничего нет!',
+	'byGenre'				=> 'По жанру',
+	'byType'		=> 'По типу',
+	'info'		=> 'Информация',
+	'redeemSerials'		=> 'Воспользоватся серийным ключом',
+	'support'		=> 'Поддержка',
+	'helpFAQ'		=> 'Помощь/FAQ',
+	'tAndCond'		=> 'Условия пользования',
+	'priPolicy'		=> 'Политика конфиденциальности',
+	'contact'		=> 'Связатся с нами',
 ));
 
 ?>

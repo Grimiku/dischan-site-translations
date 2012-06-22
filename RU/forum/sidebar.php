@@ -13,12 +13,12 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'search'				=> 'Search',
-	'keywords'				=> 'keywords...',
+	'search'				=> 'Поиск',
+	'keywords'				=> 'ключевые слова...',
 	'recenltyBumped'		=> 'Recently Bumped',
-	'jumpToLatestBold'	=> 'Jump to <b>Latest</b></a>',
-	'whosOnline'			=> 'Who\'s Online',
-	'nobodyOnline'		=> 'Nobody is online right now!',
+	'jumpToLatestBold'	=> 'Перейти к <b>Последнему</b></a>',
+	'whosOnline'			=> 'Кто в сети',
+	'nobodyOnline'		=> 'Никого нет!',
 ));
 
 ?>

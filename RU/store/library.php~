@@ -29,9 +29,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'redeemSerials'		=> 'Воспользоватся серийным ключом',
 	'support'		=> 'Поддержка',
 	'helpFAQ'		=> 'Помощь/FAQ',
-	'tAndCond'		=> 'Условия пользования',
+	'tAndCond'		=> 'Условия',
 	'priPolicy'		=> 'Политика конфиденциальности',
-	'contact'		=> 'Связатся с нами',
+	'contact'		=> 'Контакты',
 ));
 
 ?>

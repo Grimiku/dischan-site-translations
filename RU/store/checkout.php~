@@ -21,12 +21,12 @@ $siteStrings = array_merge($siteStrings, array(
 	'youreAwesome'		=> 'Вы <i>крутые</i>.',
 	'loggedInPurchaseConf'	=> 'Чек был отправлен на почтовый ящик зарегестрированый на Dischan. Все заказаные дигитальные товары будут доступны в <a href = "library.php">библиотеке</a> как только транзакция завершится.<br /><br />
 							Благодарим вас за покупку. Если у вас возникнут проблемы, стесняйтесь и <a href = "http://dischan.org/contact.php">свяжитесь с нами</a>.',
-	'guestPurchaseConf'		=> 'Чек был отправлен на почтовый ящик зарегестрированый на PayPal, включая все ссылки и серийные ключи на дигитальные товары.<br /><br />
+	'guestPurchaseConf'		=> 'Чек был отправлен на почтовый ящик зарегестрированый на PayPal, including download links and serials for any digital goods.<br /><br />
 							Благодарим вас за покупку. Если у вас возникнут проблемы, стесняйтесь и <a href = "http://dischan.org/contact.php">свяжитесь с нами</a>.',
-	'returnToStore'		=> 'вернутся в магазин',
-	'comfirmationUppr'		=> 'Подтверждение',
+	'returnToStore'		=> 'return to store',
+	'comfirmationUppr'		=> 'Confirmation',
 	'shippingHandlingCost'		=> 'shipping & handling',
-	'total'		=> 'Сумма',
+	'total'		=> 'Total',
 	'reviewOrder'		=> 'Please review your order for accuracy before proceeding with payment.',
 	'dischanCartPaypal'		=> 'Your purchase will show up in paypal as \'Dischan Cart\'.',
 	'purchaseTOS'		=> 'Please note: By making a purchase
