@@ -13,11 +13,10 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'support'				=> 'Support',
-	'supportPara'			=> '<p>Having trouble with a dischan product or service? If so, please check out the <a href = "http://www.dischan.org/forum/viewforum.php?c=3&f=8">support section of our forum</a>. If your
-								problem is not listed there, please feel free to start a new thread for it. Screenshots are appreciated.</p>
+	'support'				=> 'Поддержка',
+	'supportPara'			=> '<p>У вас проблема с продукцией Dischan или её сервисом? Если так, то пожалуста проверьте <a href = "http://www.dischan.org/forum/viewforum.php?c=3&f=8">раздел поддержки на нашем форуме</a>. Если ваша проблема там не перечислена, начните новую тему насчёт неё. Скриншоты могут сильно помочь.</p>
 								<br />
-								<p>For problems of a more sensitive nature, such as security issues, problems with your account, or store purchases, please use our <a href = "contact.php">contact form</a>.</p>',
+								<p>Для более деликатных проблем, таких как проблемы с безопасностью, вашей учётной записью или покупками в магазине, пожалуста воспользуйтесь <a href = "contact.php">контактной формой</a>.</p>',
 ));
 
 ?>
