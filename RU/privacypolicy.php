@@ -13,7 +13,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'privacyPolicy'		=> 'Privacy Policy',
+	'privacyPolicy'		=> 'Политика конфиденциальности',
 ));
 
 ?>
