@@ -15,8 +15,8 @@ if (empty($siteStrings) || !is_array($siteStrings))
 $siteStrings = array_merge($siteStrings, array(
 	'search'				=> 'Поиск',
 	'keywords'				=> 'ключевые слова...',
-	'recenltyBumped'		=> 'Recently Bumped',
-	'jumpToLatestBold'	=> 'Перейти к <b>Последнему</b></a>',
+	'recenltyBumped'		=> 'Недавно поднятые',
+	'jumpToLatestBold'	=> 'Перейти к <b>Последнему посту</b></a>',
 	'whosOnline'			=> 'Кто в сети',
 	'nobodyOnline'		=> 'Никого нет!',
 ));

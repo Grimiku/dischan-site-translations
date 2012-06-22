@@ -18,7 +18,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'forums'		=> 'Форумы',
 	'posts'	=> 'Посты',
 	'users'			=> 'Пользователи',
-	'databaseSize'		=> 'Размера датабазы',
+	'databaseSize'		=> 'Размер датабазы',
 	'forumRules'			=> 'Правила форума.',
 	'forumDisclaimer'				=> 'За все посты и их содержания несёт ответственность их постер.',
 ));

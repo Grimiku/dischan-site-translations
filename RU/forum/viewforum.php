@@ -13,7 +13,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'recentlyBumped'				=> 'recently bumped',
+	'recentlyBumped'				=> 'недавно поднятые',
 	'forumDNE'				=> 'Форум не существует',
 	'noThreadsYet'		=> 'Тем ещё нету',
 	'noPostsYet'	=> 'Постов ещё нет',
@@ -23,7 +23,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'sticky'				=> 'Важно',
 	'replies'				=> 'ответов',
 	'images'				=> 'изображений',
-	'jumpToLatest'				=> 'Перейти к последнему',
+	'jumpToLatest'				=> 'Перейти к последнему посту',
 	'author'				=> 'Автор',
 	'reply'				=> 'Ответить',
 	'newThreadContent'				=> 'Содержание новой темы...',
