@@ -14,7 +14,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'company'			=> 'Компания',
-	'apply'				=> 'Apply',
+	'apply'				=> 'Присоеденится',
 	'positions'			=> 'Вакансии',
 	'contactus'			=> 'Связатся с нами',
 	'faq'				=> 'FAQ',
