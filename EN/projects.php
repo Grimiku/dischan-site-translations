@@ -17,7 +17,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'projects'				=> 'Projects',
 	'disMAEPara'		=> '<p>DisMAE, or Dischan Mobile Animation Engine, is a custom visual novel engine for iOS built using the <a href = "http://www.cocos2d-iphone.org/" target="_blank">Cocos2D framework</a>.</p>
 							<br />
-							<p>DisMAE is particularly useful in it\'s ability to process many <a href = "http://www.renpy.org/" target="_blank">ren\'py</a> script commands directly, simplifying the process of porting ren\'py games to iOS significantly.</p>
+							<p>DisMAE is particularly useful in it\'s ability to recognise many <a href = "http://www.renpy.org/" target="_blank">ren\'py</a> script commands directly, simplifying the process of porting ren\'py games to iOS significantly.</p>
 							<br />
 							<p>Currently, the engine is for in-house use only, however may be released for licensing in the future.</p>',
 	'juniperPara'	=> '<p>Juniper\'s Knot is a short and free visual novel created by Dischan for NaNoReNo 2012 (NaNoReNo is a yearly challenge to create a visual novel in the month of March).</p>
