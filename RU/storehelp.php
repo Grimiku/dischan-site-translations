@@ -13,20 +13,20 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'storeHelp'				=> 'Store Help',
-	'sotreHelpPara'				=> 'If you have any issues or questions concerning the Dischan store, please check the frequently asked questions below. If this does not resolve your issue, then you are encouraged to <a href = "contact.php">contact us</a>, including all information you may believe relevant. We will get back to you as soon as we can.',
-	'storeFAQ'		=> 'Store FAQ',
-	'storeFAQPara'	=> '<p><b>Does the Dischan store allow gifting?</b></p>
-							<p>Yes! You can gift to another Dischan user, or to an email address. Just navigate to a product page and click "Gift".</p>
+	'storeHelp'				=> 'Помощь с магазином',
+	'sotreHelpPara'				=> 'Если у вас возникли проблемы или вопросы насчёт магазина Dischan, пожалуйста посмотрите часто задаваемые вопросы (FAQ) ниже. Если он вам не поможет, тогда пожалуйста <a href = "contact.php">свяжитесь с нами</a>, добавляя всю информацию которую вы считаете полезной. Мы попытаемся вам ответить как можно раньше.',
+	'storeFAQ'		=> 'FAQ',
+	'storeFAQPara'	=> '<p><b>Можно ли делать подарки в магазине Dischan?</b></p>
+							<p>Да! Вы можете сделать подарок пользователю Dischan, или на E-Mail. Просто перейдите на страницу с товаром и нажмите "Подарить".</p>
 							<br />
-							<p><b>Does Dischan allow international purchases?</b></p>
-							<p>Yes! We use PayPal as our payment processor, and anything they accept we do too. However, for items that require shipping, it is best to contact us first if you are outside of the United States or Canada.</p>
+							<p><b>Можно ли делать международные покупки в магазине Dischan?</b></p>
+							<p>Да! Мы используем PayPal, и всё что они примут, примем и мы. Но, перед тем как купить что-либо что потребует отправку товара за границы Соединённых Штатов или Канады, пожалуйста свяжитесь с нами.</p>
 							<br />
-							<p><b>How do digital product downloads work?</b></p>
-							<p>If you purchase your digital content with a Dischan account, then it is added to your library to be downloaded at any time. If you do not use a Dischan account, then a serial for your product will be sent to your PayPal email. You can use this serial in conjunction with your PayPal email to download your products.</p>
+							<p><b>Как работают загрузки дигитальных продуктов?</b></p>
+							<p>Если вы купите дигитальный продукт через вашу учётную запись Dischan, тогда оно добавляется в вашу библиотеку откуда вы можете начать загрузку в любой момент. Если вы не используете учётную запись Dischan, тогда ключ от вашего продукта отсылается на ваш PayPal E-Mail. Вы можете воспользоваться этим ключом совместно с вашим PayPal E-Mail\'ом что бы скачать вашу покупку.</p>
 							<br />
-							<p><b>I haven\'t received my email after purchase, what do I do?</b></p>
-							<p>Please wait for at least 30 minutes after your purchase, and be sure to check your junk or spam folder. If it still does not arrive, please <a href = "contact.php">contact us</a> with your PayPal transaction ID or receipt number and the username or email you used to purchase. We will work to resolve the issue as quickly as possible.</p>',
+							<p><b>Я не получил письмо после покупки, что мне делать?</b></p>
+							<p>Пожалуйста подождите как минимум 30 минут после покупки и проверьте не было ли письмо помечено как Спам или Мусор. Если письмо так и не приходит, пожалуйста <a href = "contact.php">свяжитесь с нами</a> и укажите ваш PayPal transaction ID или receipt number и имя пользователя или E-Mail который вы использовали. Мы попытаемся исправить это как можно скорей.</p>',
 ));
 
 ?>
