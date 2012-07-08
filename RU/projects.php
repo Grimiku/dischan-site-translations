@@ -13,25 +13,24 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'posts'				=> 'Posts',
-	'projects'				=> 'Projects',
-	'disMAEPara'		=> '<p>DisMAE, or Dischan Mobile Animation Engine, is a custom visual novel engine for iOS built using the <a href = "http://www.cocos2d-iphone.org/" target="_blank">Cocos2D framework</a>.</p>
+	'posts'				=> 'Посты',
+	'projects'				=> 'Проэкты',
+	'disMAEPara'		=> '<p>DisMAE, или Dischan Mobile Animation Engine, это кастомный движок для визуальных новелл для iOS созданный с помощью <a href = "http://www.cocos2d-iphone.org/" target="_blank">Cocos2D</a>.</p>
 							<br />
-							<p>DisMAE is particularly useful in it\'s ability to process many <a href = "http://www.renpy.org/" target="_blank">ren\'py</a> script commands directly, simplifying the process of porting ren\'py games to iOS significantly.</p>
+							<p>DisMAE очень удобен в том что он может понимать многие команды <a href = "http://www.renpy.org/" target="_blank">Ren\'Py</a> напрямую, значительно облегчая портирование Ren\'Py игр на iOS.</p>
 							<br />
-							<p>Currently, the engine is for in-house use only, however may be released for licensing in the future.</p>',
-	'juniperPara'	=> '<p>Juniper\'s Knot is a short and free visual novel created by Dischan for NaNoReNo 2012 (NaNoReNo is a yearly challenge to create a visual novel in the month of March).</p>
+							<p>В данный момент, движок можем использовать только мы, хотя может быть лицензирован в будущем.</p>',
+	'juniperPara'	=> '<p>Juniper\'s Knot короткая и бесплатная визуальная новелла созданная студией Dischan для NaNoReNo 2012 (NaNoReNo это ежегодный вызов по созданию визуальной новеллы в течение Марта).</p>
 						<br />
-						<p>It is a story about the meeting of a boy and a demon. You can download it <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">here</a> for Windows, Mac, Linux, and iOS. Below is some promotional material for the game.</p>',
-	'cradlePara'			=> '<p>Cradle Song is a visual novel Dischan has been working on since its inception in 2009.</p>
+						<p>Это история о встрече мальчика и демона. Вы можете скачать её <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">здесь</a> для Windows, Mac, Linux, и iOS. Немного ниже вы найдёте рекламный материал к игре.</p>',
+	'cradlePara'			=> '<p>Cradle Song это визуальная новелла над которой Dischan работает с момента её основания в 2009 году.</p>
 							<br />
-							<p>A <a href = "http://cradle-song.com/story.php">synopsis of the story</a> is available on the <a href = "http://cradle-song.com/">official cradle song site</a>, as well as <a href = "http://cradle-song.com/characters.php">descriptions for
-							some of the characters</a> from the game.</p>
+							<p><a href = "http://cradle-song.com/story.php">Синопсис истории</a> доступен на <a href = "http://cradle-song.com/"> официальном сайте Cradle Song</a> как и <a href = "http://cradle-song.com/characters.php">описания некоторых персонажей</a> из игры.</p>
 							<br />
-							<p>In 2011, we released a preview which you can <a href = "http://cradle-song.com/download.php">download</a> and try out for yourself. A trailer for the preview is below.</p>',
-	'projectsPara'		=> '<p>Currently, Dischan\'s main project is a visual novel entitled "Cradle Song". Please visit the <a href = "projects.php?p=1">Cradle Song page</a> to learn more.</p>
+							<p>В 2011 году, мы выпустили превью которое вы можете <a href = "http://cradle-song.com/download.php">загрузить</a> и попробывать. Трейлер можно найти ниже.</p>',
+	'projectsPara'		=> '<p>В данный момент, главный проект Dischan это визуальная новелла "Cradle Song". Пожалуйста посетите <a href = "projects.php?p=1">страницу Cradle Song</a> чтобы узнать больше.</p>
 							<br />
-							<p>Dischan has also completed a short visual novel entitled "Juniper\'s Knot" for NaNoReNo 2012. Please visit the <a href = "projects.php?p=2">Juniper\'s Knot page</a> to learn more.</p>',
+							<p>Dischan так же закончила короткую визуальную новеллу "Juniper\'s Knot" для NaNoReNo 2012. Пожалуйста посетите <a href = "projects.php?p=2">страницу Juniper\'s Knot</a> чтобы узнать больше.</p>',
 ));
 
 ?>

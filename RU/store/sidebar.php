@@ -22,12 +22,12 @@ $siteStrings = array_merge($siteStrings, array(
 	'byGenre'				=> 'По жанру',
 	'byType'		=> 'По типу',
 	'info'		=> 'Информация',
-	'redeemSerials'		=> 'Воспользоватся ключом',
+	'redeemSerials'		=> 'Воспользоваться ключом',
 	'support'		=> 'Поддержка',
 	'helpFAQ'		=> 'Помощь/FAQ',
 	'tAndCond'		=> 'Условия пользования',
 	'priPolicy'		=> 'Политика конфиденциальности',
-	'contact'		=> 'Связатся с нами',
+	'contact'		=> 'Связаться с нами',
 ));
 
 ?>

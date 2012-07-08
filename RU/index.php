@@ -13,12 +13,12 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'latestBlog'		=> 'Latest Blogposts',
-	'visitBlog'			=> 'visit the blog',
-	'readTheRest'		=> 'Read the rest of this post',
-	'featuredDL'		=> 'Featured Download',
+	'latestBlog'		=> 'Последние блогпосты',
+	'visitBlog'			=> 'посетить блог',
+	'readTheRest'		=> 'Прочитать пост до конца',
+	'featuredDL'		=> 'Избранные загрузки',
 	'featuredDLTitle'	=> 'Juniper\'s Knot',
-	'featuredDLText'	=> 'Download Juniper\'s Knot here: <a href = "http://junipersknot.dischan.org/">official site</a>.',
+	'featuredDLText'	=> 'Загрузить Juniper\'s Knot можно здесь: <a href = "http://junipersknot.dischan.org/">официальный сайт</a>.',
 ));
 
 ?>

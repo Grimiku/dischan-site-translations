@@ -17,7 +17,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'queryShort'				=> 'Запрос слишком короткий',
 	'resultsFor'		=> 'Результаты для',
 	'max'	=> 'max',
-	'postedIn'			=> 'написанно в',
+	'postedIn'			=> 'написано в',
 	'noResults'		=> 'Не найдено результатов для',
 ));
 

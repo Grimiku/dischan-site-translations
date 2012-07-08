@@ -30,14 +30,14 @@ $siteStrings = array_merge($siteStrings, array(
 	'newestUppr'				=> 'Последнее',
 	'newReleases'				=> 'Новое',
 	'comingSoon'				=> 'Скоро',
-	'bestSellers'				=> 'Бэстселлеры',
+	'bestSellers'				=> 'Бестселлеры',
 	'highestRated'				=> 'Наивысший рейтинг',
 	'onSale'				=> 'На продаже',
 	'freeCat'				=> 'Бесплатно',
 	'music'				=> 'Музыка',
 	'swag'				=> 'Swag',
 	'addAsGift'				=> 'Добавить как подарок',
-	'giveToUser'				=> 'Подарить пользователю dischan',
+	'giveToUser'				=> 'Подарить пользователю Dischan',
 	'giveToGuest'				=> 'Подарить гостю',
 ));
 

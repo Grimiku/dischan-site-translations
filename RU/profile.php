@@ -23,9 +23,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'about'				=> 'Об',
 	'message'			=> 'Сообщение',
 	'location'			=> 'Местоположение',
-	'website'			=> 'Website',
+	'website'			=> 'Сайт',
 	'profile'			=> 'Профиль',
-	'tagNote'		=> 'Внимание: Все тэги функционируют',
+	'tagNote'		=> 'Внимание: Все теги функционируют',
 ));
 
 ?>

@@ -13,16 +13,13 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'internationalTrans'=> 'Internationalization and Translations',
-	'internationalPara'	=> '<p>Dischan tries to be as international as possible, and to share our products in as many languages as we can. In order to do this, we need help from you.
-							If you are confidently multilingual, and notice a language being neglected, please <a href = "contact.php">contact us</a>. We\'d love your help in translating our sites,
-							or our products.</p>
+	'internationalTrans'=> 'Интернационализация и Переводы',
+	'internationalPara'	=> '<p>Dischan старается быть настолько интернациональным насколько возможно и для того чтобы делится нашей продукцией в стольких языках насколько мы можем. Чтобы это сделать, нам нужна ваша помощь.
+							Если вы уверенно многоязычны и заметили что за языком не следят, пожалуйста <a href = "contact.php">свяжитесь с нами</a>. Мы будем рады вашей помощи в переводе нашего сайта или нашей продукции.</p>
 							<br />
-							<p>In order to ensure your aptitude, we do ask that you complete our <a href="files/translatorspack.zip">translation test</a>, which involves translating various
-								sections of script from the Cradle Song preview. We will ask you for it after you contact us, so please complete it before doing so.</p>',
-	'qualityControl'	=> 'Quality Control',
-	'qualityControlPara'=> '<p>Although we try our best, Dischan can only guarantee the quality of original English script and web site content. If you notice any typos, grammatical errors, or mistranslations, please
-							<a href = "contact.php">contact us</a> and let us know.</p>',
+							<p>Чтобы убедится в ваших способностях, мы просим чтобы вы завершили наш <a href="files/translatorspack.zip">тест</a>, который включает перевод различных частей скрипта из превью Cradle Song. Мы попросим его у вас после того как вы свяжитесь с нами, поэтому завершите его до того как свяжитесь.</p>',
+	'qualityControl'	=> 'Контроль Качества',
+	'qualityControlPara'=> '<p>Хоть мы и стараемся на все 100, Dischan может гарантировать качество только оригинального скрипта и сайта на английском языке. Если вы заметите опечатки, грамматические ошибки или неправильные переводы, пожалуйста <a href = "contact.php">свяжитесь с нами</a> и сообщите нам.</p>',
 ));
 
 ?>

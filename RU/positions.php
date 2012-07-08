@@ -13,32 +13,28 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'positions'			=> 'Positions',
-	'positionsPara'		=> 'Although Dischan is always interested in potential talent of any kind, below are some of the
-							openings which we would particularly like to fill. Please note that at this time these positions
-							are volunteer. However, if any money is made from your work, you will be compensated appropriately, usually
-							through a percentage of the revenue in question.',
-	'graphicDesigner'	=> 'Graphic Designer',
-	'graphicDesignPara'	=> '<p>Dischan is looking for a graphic designer for tasks such as:</p>
+	'positions'			=> 'Вакансии',
+	'positionsPara'		=> 'Хоть Dischan всегда интересуется потенциальным талантам любого вида, ниже вы найдёте несколько вакансий которые мы хотели бы заполнить. Пожалуйста учтите что в данный момент эти позиции волонтёрские. Но, если будут заработаны деньги от вашей работы, вас компенсируют надлежащим образом, обычно определённым процентом от полученного дохода.',
+	'graphicDesigner'	=> 'Графический Дизайнер',
+	'graphicDesignPara'	=> '<p>Dischan ищет графических дизайнеров для задач такого рода:</p>
 							<ul>
-								<li>Brainstorming designs for fictional worlds (logos, signage, seals, etc)</li>
-								<li>Web design</li>
-								<li>User interface design</li>
+								<li>Мозговой штурм дизайнов для вымышленных миров (лого, вывески, печати и т.д.)</li>
+								<li>Веб дизайн</li>
+								<li>Дизайн пользовательского интерфейса</li>
 							</ul>
-							<p>If you believe you can perform any of the tasks listed above, then we would love to work with you.
-							Applicants must include a link to their portfolio to be reviewed. The more works the better,
-							however feel free to point out the works of which you are particularly proud.
+							<p>Если вы считаете что можете выполнить любое из выше названных действий тогда мы будем рады работать с вами.
+							Заявители должны указать ссылку на их портфолио для рецензирования. Чем больше работ, тем лучше, но вы можете указать работы которыми вы гордитесь.
 							<br/><br/>
-							<a href = "apply.php?position=gd"><b>Apply</b></a></p>',
-	'artist'			=> 'Artist',
-	'artistPara'		=> '<p>Dischan is looking for artists to help draw concept art, sprites, and backgrounds. Some of the skills we are looking for are:
+							<a href = "apply.php?position=gd"><b>Подать Заявление</b></a></p>',
+	'artist'			=> 'Артист',
+	'artistPara'		=> '<p>Dischan ищет художников для помощи в создании концепт арта, спрайтов и задников. Некоторые из навыков которые мы ищем являются:
 							<ul>
-								<li>Proficiency in Photoshop</li>
-								<li>Experience with creating and modifying digital art</li>
+								<li>Опыт работы в Photoshop\'е</li>
+								<li>Опыт в создании и модифицировании дигитальных изображений</li>
 							</ul>
-							Applicants should include a portfolio of recent work either as an attachment, or as a link.
+							Заявителям стоит включить портфолио недавних работ как приложение или как ссылку.
 							<br/><br/>
-							<a href = "apply.php?position=ar"><b>Apply</b></a></p>',
+							<a href = "apply.php?position=ar"><b>Подать Заявление</b></a></p>',
 ));
 
 ?>
