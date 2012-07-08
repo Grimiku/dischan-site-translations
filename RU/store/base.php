@@ -37,7 +37,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'music'				=> 'Музыка',
 	'swag'				=> 'Swag',
 	'addAsGift'				=> 'Добавить как подарок',
-	'giveToUser'				=> 'Подарить пользователю dischan',
+	'giveToUser'				=> 'Подарить пользователю Dischan',
 	'giveToGuest'				=> 'Подарить гостю',
 ));
 
