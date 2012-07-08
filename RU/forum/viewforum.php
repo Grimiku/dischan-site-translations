@@ -36,8 +36,8 @@ $siteStrings = array_merge($siteStrings, array(
 	'threadLocked'				=> 'Простите, эта тема закрыта.',
 	'postLimitReached'				=> 'Лимит размера поста достигнут.',
 	'imageLimitReached'				=> 'Лимит размера изображения достигнут.',
-	'subscribe'				=> 'Подписатся',
-	'unsubscribe'				=> 'Отписатся',
+	'subscribe'				=> 'Подписаться',
+	'unsubscribe'				=> 'Отписаться',
 ));
 
 ?>

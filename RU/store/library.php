@@ -14,24 +14,24 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'libraryLWR'				=> 'библиотека',
-	'redeemSerials'				=> 'воспользоватся ключом',
+	'redeemSerials'				=> 'воспользоваться ключом',
 	'libraryEmpty'	=> 'Ваша библиотека пустая!',
 	'libraryEmptyPara'		=> '<p>Попробуйте походить по нашему <a href = "index.php">магазину</a>. Может найдёте что вам понравится.
 							<br />
 							<br />
-							Или если у вас имеется ключ, вы можете им воспользоватся <a href = "redeem.php">здесь</a>.
+							Или если у вас имеется ключ, вы можете им воспользоваться <a href = "redeem.php">здесь</a>.
 							</p>',
 	'recipient'		=> 'получать',
-	'nothingYet'		=> 'Ешё ничего нет!',
+	'nothingYet'		=> 'Ещё ничего нет!',
 	'byGenre'				=> 'По жанру',
 	'byType'		=> 'По типу',
 	'info'		=> 'Информация',
-	'redeemSerials'		=> 'Воспользоватся ключом',
+	'redeemSerials'		=> 'Воспользоваться ключом',
 	'support'		=> 'Поддержка',
 	'helpFAQ'		=> 'Помощь/FAQ',
 	'tAndCond'		=> 'Условия пользования',
 	'priPolicy'		=> 'Политика конфиденциальности',
-	'contact'		=> 'Связатся с нами',
+	'contact'		=> 'Связаться с нами',
 ));
 
 ?>

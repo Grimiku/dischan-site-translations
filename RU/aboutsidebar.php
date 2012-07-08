@@ -14,13 +14,13 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'company'			=> 'Компания',
-	'apply'				=> 'Присоеденится',
+	'apply'				=> 'Присоединится',
 	'positions'			=> 'Вакансии',
-	'contactus'			=> 'Связатся с нами',
+	'contactus'			=> 'Связаться с нами',
 	'faq'				=> 'FAQ',
 	'support'			=> 'Помощь',
 	'press'				=> 'Пресса',
-	'international'		=> 'Интернализация и переводы',
+	'international'		=> 'Интернационализация и переводы',
 	'store'				=> 'Магазин',
 	'helpfaq'			=> 'Помощь/FAQ',
 	'forum'				=> 'Форум',
