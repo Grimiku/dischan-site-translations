@@ -28,9 +28,9 @@ $siteStrings = array_merge($siteStrings, array(
 							<p><a href = "http://cradle-song.com/story.php">Синопсис истории</a> доступен на <a href = "http://cradle-song.com/"> официальном сайте Cradle Song</a> как и <a href = "http://cradle-song.com/characters.php">описания некоторых персонажей</a> из игры.</p>
 							<br />
 							<p>В 2011 году, мы выпустили превью которое вы можете <a href = "http://cradle-song.com/download.php">загрузить</a> и попробывать. Трейлер можно найти ниже.</p>',
-	'projectsPara'		=> '<p>В данный момент, главный проект Dischan это визуальная новелла называемая "Cradle Song". Пожалуйста посетите <a href = "projects.php?p=1">страницу Cradle Song</a> чтобы узнать больше.</p>
+	'projectsPara'		=> '<p>В данный момент, главный проект Dischan это визуальная новелла "Cradle Song". Пожалуйста посетите <a href = "projects.php?p=1">страницу Cradle Song</a> чтобы узнать больше.</p>
 							<br />
-							<p>Dischan так же закончила короткую визуальную новеллу называемая "Juniper\'s Knot" для NaNoReNo 2012. Пожалуйста посетите <a href = "projects.php?p=2">страницу Juniper\'s Knot</a> чтобы узнать больше.</p>',
+							<p>Dischan так же закончила короткую визуальную новеллу "Juniper\'s Knot" для NaNoReNo 2012. Пожалуйста посетите <a href = "projects.php?p=2">страницу Juniper\'s Knot</a> чтобы узнать больше.</p>',
 ));
 
 ?>
