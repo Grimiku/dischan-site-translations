@@ -17,7 +17,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'projects'				=> 'Projects',
 	'disMAEPara'		=> '<p>DisMAE, or Dischan Mobile Animation Engine, is a custom visual novel engine for iOS built using the <a href = "http://www.cocos2d-iphone.org/" target="_blank">Cocos2D framework</a>.</p>
 							<br />
-							<p>DisMAE is particularly useful in it\'s ability to recognise many <a href = "http://www.renpy.org/" target="_blank">ren\'py</a> script commands directly, simplifying the process of porting ren\'py games to iOS significantly.</p>
+							<p>DisMAE is particularly useful in its ability to recognise many <a href = "http://www.renpy.org/" target="_blank">ren\'py</a> script commands directly, simplifying the process of porting ren\'py games to iOS significantly.</p>
 							<br />
 							<p>Currently, the engine is for in-house use only, however may be released for licensing in the future.</p>',
 	'juniperPara'	=> '<p>Juniper\'s Knot is a short and free visual novel created by Dischan for NaNoReNo 2012 (NaNoReNo is a yearly challenge to create a visual novel in the month of March).</p>
@@ -25,7 +25,7 @@ $siteStrings = array_merge($siteStrings, array(
 						<p>It is a story about the meeting of a boy and a demon. You can download it <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">here</a> for Windows, Mac, Linux, and iOS. Below is some promotional material for the game.</p>',
 	'cradlePara'			=> '<p>Cradle Song is a visual novel Dischan has been working on since its inception in 2009.</p>
 							<br />
-							<p>A <a href = "http://cradle-song.com/story.php">synopsis of the story</a> is available on the <a href = "http://cradle-song.com/">official cradle song site</a>, as well as <a href = "http://cradle-song.com/characters.php">descriptions for
+							<p>A <a href = "http://cradle-song.com/story.php">synopsis of the story</a> is available on the <a href = "http://cradle-song.com/">official Cradle Song site</a>, as well as <a href = "http://cradle-song.com/characters.php">descriptions for
 							some of the characters</a> from the game.</p>
 							<br />
 							<p>In 2011, we released a preview which you can <a href = "http://cradle-song.com/download.php">download</a> and try out for yourself. A trailer for the preview is below.</p>',

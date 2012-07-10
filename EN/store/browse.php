@@ -26,9 +26,6 @@ $siteStrings = array_merge($siteStrings, array(
 	'listView'	=> 'list',
 	'noProductsFound'	=> 'No Products Found',
 	'max'	=> 'max',
-	'max'	=> 'max',
-	'max'	=> 'max',
-	'max'	=> 'max',
 ));
 
 ?>
