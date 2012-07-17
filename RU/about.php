@@ -26,7 +26,7 @@ $siteStrings = array_merge($siteStrings, array(
 								<p>Текущие основные члены команды включают:</p>
 								<ul>
 			    					<li>Jeremy (Dani) Miller - Писатель/Программист/Руководитель (<a href = "http://jeremyrmiller.com">Сайт</a>)</li>
-			    					<li>Saimon (Doomfest) Ma - Арт-директор (<a href = "http://doomfest.com">site</a>)</li>
+			    					<li>Saimon (Doomfest) Ma - Арт-директор (<a href = "http://doomfest.com">Сайт</a>)</li>
 			   						<li>Terrence (Swifdemon) Smith - Писатель/Программист</li>
 			    					<li>Cherisse (Null Dizzy) Smith - Редактор</li>
 			    					<li>Kristian (CombatPlayer) Jensen - Музыкант</li>
