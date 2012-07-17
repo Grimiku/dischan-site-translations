@@ -28,7 +28,7 @@ $siteStrings = array_merge($siteStrings, array(
 								<li>Strikethrough - Use: [s]strikethrough text[/s] - Example: <s>strikethrough text</s></li>
 								<li>Bold - Use: [b]bold text[/b] - Example: <b>bold text</b></li>
 								<li>Italics - Use: [i]italicised text[/i] - Example: <i>italicised</i></li>
-								<li>Spoilers - Use: [spoiler]spoiler[/spoiler] - Example: <p class = "spoiler">spoiler</p><s></s></li>
+								<li>Spoilers - Use: [spoiler]spoiler[/spoiler] - Example: <p class = "spoiler">spoiler</p></li>
 							</ul>
 							<p>Some notes:</p>
 							<ul>

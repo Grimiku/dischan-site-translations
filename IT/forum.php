@@ -28,7 +28,7 @@ $siteStrings = array_merge($siteStrings, array(
 								<li>Sbarrato - Usa: [s]testo sbarrato[/s] - Esempio: <s>testo sbarrato</s></li>
 								<li>Grassetto - Usa: [b]testo in grassetto[/b] - Esempio: <b>testo in grassetto</b></li>
 								<li>Corsivo - Usa: [i]testo in corsivo[/i] - Esempio: <i>testo in corsivo</i></li>
-								<li>Spoiler - Usa: [spoiler]spoiler[/spoiler] - Esempio: <p class = "spoiler">spoiler</p><s></s></li>
+								<li>Spoiler - Usa: [spoiler]spoiler[/spoiler] - Esempio: <p class = "spoiler">spoiler</p></li>
 							</ul>
 							<p>Alcune note:</p>
 							<ul>
