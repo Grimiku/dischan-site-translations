@@ -25,7 +25,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<div class = "leftContentText">
 								<p>Current core team members include:</p>
 								<ul>
-			    					<li>Jeremy (Dani) Miller - Writer/Programmer/Project Manager</li>
+			    					<li>Jeremy (Dani) Miller - Writer/Programmer/Project Manager (<a href = "http://jeremyrmiller.com">site</a>)</li>
 			    					<li>Saimon (Doomfest) Ma - Art Director (<a href = "http://doomfest.com">site</a>)</li>
 			   						<li>Terrence (Swifdemon) Smith - Writer/Programmer</li>
 			    					<li>Cherisse (Null Dizzy) Smith - Editor</li>
