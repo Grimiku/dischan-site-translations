@@ -2,7 +2,7 @@
 
 if (empty($siteStrings) || !is_array($siteStrings))
 {
-        $siteStrings = array();
+	$siteStrings = array();
 }
 
 // DEVELOPERS PLEASE NOTE
