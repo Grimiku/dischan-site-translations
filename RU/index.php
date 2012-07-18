@@ -16,9 +16,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'latestBlog'		=> 'Последние блогпосты',
 	'visitBlog'			=> 'посетить блог',
 	'readTheRest'		=> 'Прочитать пост до конца',
-	'featuredDL'		=> 'Избранные загрузки',
+	'featuredDL'		=> 'Избранное',
 	'featuredDLTitle'	=> 'Juniper\'s Knot',
-	'featuredDLText'	=> 'Загрузить Juniper\'s Knot можно здесь: <a href = "http://junipersknot.dischan.org/">официальный сайт</a>.',
+	'featuredDLText'	=> 'Загрузить Juniper\'s Knot можно с: <a href = "http://junipersknot.dischan.org/">официального сайта</a>.',
 ));
 
 ?>

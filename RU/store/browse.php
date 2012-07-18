@@ -26,9 +26,6 @@ $siteStrings = array_merge($siteStrings, array(
 	'listView'	=> 'список',
 	'noProductsFound'	=> 'Товар не найден',
 	'max'	=> 'max',
-	'max'	=> 'max',
-	'max'	=> 'max',
-	'max'	=> 'max',
 ));
 
 ?>

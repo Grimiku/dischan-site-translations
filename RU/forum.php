@@ -13,28 +13,28 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'forumRules'		=> 'Forum rules',
-	'forumRulesPara'	=> '<p>Posting any of the below can result in a temporary or permanent ban from the forums:</p> 
-							<ul>
-								<li>Illegal content as determined by Canadian and/or United States law</li>
-								<li>Pornography</li>
-								<li>Excessive profanity</li>
-								<li>Advertising and/or spam</li>
-							</ul>
-							<p>Moderators may also ban users of their own discretion, if you believe you have been falsely or unfairly banned, please <a href = "contact.php">contact us</a>.</p>',
-	'forumUse'		=> 'Using the forum',
-	'forumUsePara'	=> '<p>There are some tags that allow you to format your posts on the forum. They are as follows:</p>
-							<ul>
-								<li>Strikethrough - Use: [s]strikethrough text[/s] - Example: <s>strikethrough text</s></li>
-								<li>Bold - Use: [b]bold text[/b] - Example: <b>bold text</b></li>
-								<li>Italics - Use: [i]italicised text[/i] - Example: <i>italicised</i></li>
-								<li>Spoilers - Use: [spoiler]spoiler[/spoiler] - Example: <p class = "spoiler">spoiler</p></li>
-							</ul>
-							<p>Some notes:</p>
-							<ul>
-								<li>Links automatically linkify</li>
-								<li>Hovering over an image will show the original image\'s filename</li>
-							</ul>',
+        'forumRules'            => 'Правила форума',
+        'forumRulesPara'        => '<p>Постинг следующего может повлечь временный или вечный бан на форуме:</p> 
+                                                        <ul>
+                                                                <li>Незаконное содержимое по Канадскому и(ли) закону Соединённых Штатов</li>
+                                                                <li>Порнография</li>
+                                                                <li>Чрезмерное сквернословие</li>
+                                                                <li>Реклама и(ли) спам</li>
+                                                        </ul>
+                                                        <p>Модераторы могут банить пользователей по своему усмотрению, если вы считаете что были случайно или несправедливо забанены, пожалуйста <a href = "contact.php">свяжитесь с нами</a>.</p>',
+        'forumUse'              => 'Использование форума',
+        'forumUsePara'  => '<p>Имеются несколько тегов которые позволяют форматировать ваши посты на форуме. Вот и они:</p>
+                                                        <ul>
+                                                                <li>Зачёркнутый текст - Используйте: [s]зачёркнутый текст[/s] - Пример: <s>зачёркнутый текст</s></li>
+                                                                <li>Жирный текст - Используйте: [b]жирный текст[/b] - Пример: <b>жирный текст</b></li>
+                                                                <li>Текст в курсиве - Используйте: [i]текст в курсиве[/i] - Пример: <i>текст в курсиве</i></li>
+                                                                <li>Спойлеры - Используйте: [spoiler]спойлер[/spoiler] - Пример: <p class = "spoiler">спойлер</p></li>
+                                                        </ul>
+                                                        <p>Примечания:</p>
+                                                        <ul>
+                                                                <li>Ссылки автоматически становятся ими</li>
+                                                                <li>Если навести курсор над изображением то будет показано его оригинальное название</li>
+                                                        </ul>',
 ));
 
 ?>

@@ -14,13 +14,13 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'posts'				=> 'Посты',
-	'lastOnline'				=> 'Последний раз онлайн',
+	'lastOnline'				=> 'Последний раз был в сети',
 	'dateJoined'		=> 'Дата регистрации',
 	'beforeTracking'	=> 'До того как мы начали следить.',
 	'never'			=> 'Никогда.',
 	'userNotFound'		=> 'Пользователь не найден.',
-	'realName'			=> 'Настоящее имя',
-	'about'				=> 'Об',
+	'realName'			=> 'Имя',
+	'about'				=> 'О пользователе',
 	'message'			=> 'Сообщение',
 	'location'			=> 'Местоположение',
 	'website'			=> 'Сайт',

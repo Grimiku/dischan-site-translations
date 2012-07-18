@@ -18,15 +18,15 @@ $siteStrings = array_merge($siteStrings, array(
 							<div class = "leftContentText">
 								<p>Dischan Media - это интернациональная студия фокусирующаяся на создании картин, музыки, литературы и дизайна предельного превосходства. Jeremy Miller основал студию летом 2009 года, пытаясь создать совместную, высоко качественную визуальную новеллу (visual novel) для западного рынка.</p>
 								<br />
-								<p>С тех пор, студия выросла как и числе персонала так и в значимости. Dischan теперь состоит из нескольких талантливых лиц с общей целью: предоставлять прекрасные ощущения всем и везде.</p>
+								<p>С тех пор, студия выросла как и в числе персонала так и в значимости. Dischan теперь состоит из нескольких талантливых лиц с общей целью: предоставлять прекрасные ощущения всем и везде.</p>
 							</div>',
-	'aboutSecondPara'	=> '<h1>Developers</h1>
+	'aboutSecondPara'	=> '<h1>Разработчики</h1>
 							<hr />
 							<div class = "leftContentText">
 								<p>Текущие основные члены команды включают:</p>
 								<ul>
-			    					<li>Jeremy (Dani) Miller - Писатель/Программист/Руководитель (<a href = "http://jeremyrmiller.com">site</a>)</li>
-			    					<li>Saimon (Doomfest) Ma - Арт-директор (<a href = "http://doomfest.com">site</a>)</li>
+			    					<li>Jeremy (Dani) Miller - Писатель/Программист/Руководитель (<a href = "http://jeremyrmiller.com">Сайт</a>)</li>
+			    					<li>Saimon (Doomfest) Ma - Арт-директор (<a href = "http://doomfest.com">Сайт</a>)</li>
 			   						<li>Terrence (Swifdemon) Smith - Писатель/Программист</li>
 			    					<li>Cherisse (Null Dizzy) Smith - Редактор</li>
 			    					<li>Kristian (CombatPlayer) Jensen - Музыкант</li>
