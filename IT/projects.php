@@ -22,7 +22,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<p>Al momento, questo motore grafico è utilizzabile solo dai membri di Dischan, ma potrebbe essere rilasciato su licenza in futuro.</p>',
 	'juniperPara'	=> '<p>Juniper\'s Knot è una breve visual novel completamente gratuita creata da Dischan per l\'evento NaNoReNo 2012 (NaNoReNo è una sfida che si tiene ogni anno a Marzo che consiste nel creare una visual novel in un solo mese).</p>
 						<br />
-						<p>Narra della storia dell\'incontro tra un demone e un ragazzo. Puoi scaricarla <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">qui</a> per Windows, Mac, Linux, e iOS. Qua sotto puoi trovare un pò di materiale promozionale del gioco.</p>',
+						<p>Narra della storia dell\'incontro tra un demone e un ragazzo. Puoi scaricarla <a href = "http://junipersknot.dischan.org/">qui</a> per Windows, Mac, Linux, e iOS. Qua sotto puoi trovare un pò di materiale promozionale del gioco.</p>',
 	'cradlePara'			=> '<p>Cradle Song è una visual novel su cui Dischan sta lavorando dalla sua nascita, nel 2009.</p>
 							<br />
 							<p>Una <a href = "http://cradle-song.com/story.php">sinossi della storia</a> è disponibile sul <a href = "http://cradle-song.com/">sito ufficiale di Cradle Song</a>, insieme ai <a href = "http://cradle-song.com/characters.php">profili

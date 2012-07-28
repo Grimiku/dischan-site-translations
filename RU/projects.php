@@ -22,7 +22,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<p>В данный момент, движок только для внутреннего использования, хотя возможно в будущем будет предоставляться по лицензии.</p>',
 	'juniperPara'	=> '<p>Juniper\'s Knot это короткая и бесплатная визуальная новелла созданная студией Dischan для NaNoReNo 2012 (NaNoReNo это ежегодный вызов по созданию визуальных новелл в течение марта).</p>
 						<br />
-						<p>Это история о встрече мальчика и демона. Вы можете загрузить её <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">отсюда</a> для Windows, Mac, Linux и iOS. Немного ниже вы найдёте рекламный материал к игре.</p>',
+						<p>Это история о встрече мальчика и демона. Вы можете загрузить её <a href = "http://junipersknot.dischan.org/">отсюда</a> для Windows, Mac, Linux и iOS. Немного ниже вы найдёте рекламный материал к игре.</p>',
 	'cradlePara'			=> '<p>Cradle Song это визуальная новелла над которой Dischan работает с момента её основания в 2009 году.</p>
 							<br />
 							<p><a href = "http://cradle-song.com/story.php">Синопсис истории</a> доступен на <a href = "http://cradle-song.com/">официальном сайте Cradle Song</a> как и <a href = "http://cradle-song.com/characters.php">описания некоторых персонажей</a> из игры.</p>

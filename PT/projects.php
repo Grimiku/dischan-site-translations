@@ -22,7 +22,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<p>Atualmente, o motor é apenas para uso nosso, mas poderá ser lançado com uma licença no futuro.</p>',
 	'juniperPara'	=> '<p>O Juniper\'s Knot é um romance visual curto e grátis criado pela Dischan para o NaNoReNo 2012 (O NaNoReNo é um desafio anual onde se deve criar um romance visual no mês de Março).</p>
 						<br />
-						<p>Trata da história de o encontro entre um rapaz e um demónio. Pode transferi-lo <a href = "http://junipersknot.<?php echo $settings[siteAddress]; ?>/">aqui</a> para o Windows, Mac, Linux e iOS. Abaixo encontra-se algum material promocional para o jogo.</p>',
+						<p>Trata da história de o encontro entre um rapaz e um demónio. Pode transferi-lo <a href = "http://junipersknot.dischan.org/">aqui</a> para o Windows, Mac, Linux e iOS. Abaixo encontra-se algum material promocional para o jogo.</p>',
 	'cradlePara'			=> '<p>O Cradle Song é um romance visual que a Dischan tem estado a desenvolver desde o seu início em 2009.</p>
 							<br />
 							<p>Um <a href = "http://cradle-song.com/story.php">resumo da história</a> está disponível no <a href = "http://cradle-song.com/">site oficial do Cradle Song</a>, bem assim como <a href = "http://cradle-song.com/characters.php">descrições de algumas das personagens</a> do jogo.</p>
