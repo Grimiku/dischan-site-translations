@@ -13,21 +13,21 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'company'			=> 'Company',
-	'apply'				=> 'Apply',
-	'positions'			=> 'Positions',
-	'contactus'			=> 'Contact Us',
+	'company'			=> 'Firma',
+	'apply'				=> 'Dołącz do Nas',
+	'positions'			=> 'Stanowiska',
+	'contactus'			=> 'Kontakt',
 	'faq'				=> 'FAQ',
-	'support'			=> 'Support',
-	'press'				=> 'Press',
-	'international'		=> 'Internationalization and Translations',
-	'store'				=> 'Store',
-	'helpfaq'			=> 'Help/FAQ',
+	'support'			=> 'Wsparcie',
+	'press'				=> 'Dla Prasy',
+	'international'		=> 'Tłumaczenia i Internationalizacja',
+	'store'				=> 'Sklep',
+	'helpfaq'			=> 'Pomoc/FAQ',
 	'forum'				=> 'Forum',
-	'about'				=> 'About',
-	'legal'				=> 'Legal',
-	'termsandcond'		=> 'Terms and Conditions',
-	'privacy'			=> 'Privacy Policy',
+	'about'				=> 'Info',
+	'legal'				=> 'Prawo',
+	'termsandcond'		=> 'Warunki',
+	'privacy'			=> 'Polityka Prywatności',
 ));
 
 ?>
