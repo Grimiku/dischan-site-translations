@@ -13,17 +13,17 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'apply'				=> 'Apply',
-	'applyText'			=> 'Dischan never closes its doors to potential talent. If you think you have what it takes to work with us, please fill out the form below. Be sure to complete all the fields with stars, or it won\'t submit! <br /><br /> If you would like to view what positions we are particularly open to, please visit the <a href = "positions.php">positions</a> page.',
-	'yourName'			=> 'Your Name',
-	'yourEmail'			=> 'Your Email',
-	'doubleCheck'		=> 'Be sure to double-check it!',
-	'position'			=> 'Position',
-	'graphicDesigner'	=> 'Graphic Designer',
-	'artist'			=> 'Artist',
-	'yourSkills'		=> 'Your Skills',
-	'aboutYou'			=> 'Tell us a little about you',
-	'extra'				=> 'Anything else you think we should know?',
+	'apply'				=> 'Podanie',
+	'applyText'			=> 'Dischan nigdy nie zamyka swoich drzwi dla potencjalnych talentów. Jeśli uważasz, że posiadasz odpowiednie umiejętności do pracy z nami, prosimy o wypełnienie poniższego formularza. Pamiętaj, aby wypełnić wszystkie pola oznaczone gwiazdką! <br /><br /> Jeśli chcesz zobaczyć na jakie stanowiska jesteśmy szczególnie otwarci, odwiedź stronę <a href = "positions.php">stanowiska</a>.',
+	'yourName'			=> 'Twoje Imię',
+	'yourEmail'			=> 'Twój Email',
+	'doubleCheck'		=> 'Sprawdź dokładnie!',
+	'position'			=> 'Stanowisko',
+	'graphicDesigner'	=> 'Projektant Graficzny',
+	'artist'			=> 'Artysta',
+	'yourSkills'		=> 'Twoje Umiejętności',
+	'aboutYou'			=> 'Opowiedz nam trochę o sobie',
+	'extra'				=> 'Jeszcze coś, o czym powinniśmy wiedzieć?',
 ));
 
 ?>
