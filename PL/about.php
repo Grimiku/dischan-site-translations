@@ -13,24 +13,24 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'aboutFirstPara'	=> '<h1>Who are we?</h1>
+	'aboutFirstPara'	=> '<h1>Kim jesteśmy?</h1>
 							<hr />
 							<div class = "leftContentText">
-								<p>Dischan Media is an international development studio focused on creating art, music, literature, and design to the utmost of excellence. It was founded by Jeremy Miller in the summer of 2009 in an effort to produce a collaborative, high-quality visual novel for the western market.</p>
+								<p>Dischan Media to międzynarodowe studio koncentrujące się na tworzeniu sztuki, muzyki, literatury i designu w najwyższym stopniu doskonałości. Założone przez Jeremiego Millera w lecie 2009 roku w wyniku starań w celu stworzenia kolaboracyjnej, wysokiej jakości visual novel na rynek zachodni.</p>
 								<br />
-								<p>Since then, it has grown both in personnel and in purpose. Dischan now consists of several talented individuals with the common vision of providing beautiful experiences to everyone, everywhere.</p>
+								<p>Od tamtej pory rozrósł się zarówno w przeznaczeniu jak i personelu. Dischan składa się teraz z kilku utalentowanych osób o wspólnej wizji zapewnienia pięknych przeżyć dla wszystkich, wszędzie.</p>
 							</div>',
-	'aboutSecondPara'	=> '<h1>Developers</h1>
+	'aboutSecondPara'	=> '<h1>Twórcy</h1>
 							<hr />
 							<div class = "leftContentText">
-								<p>Current core team members include:</p>
+								<p>Obecny trzon zespołu tworzą:</p>
 								<ul>
-			    					<li>Jeremy (Dani) Miller - Writer/Programmer/Project Manager (<a href = "http://jeremyrmiller.com">site</a>)</li>
-			    					<li>Saimon (Doomfest) Ma - Art Director (<a href = "http://doomfest.com">site</a>)</li>
-			   						<li>Terrence (Swifdemon) Smith - Writer/Programmer</li>
-			    					<li>Cherisse (Null Dizzy) Smith - Editor</li>
-			    					<li>Kristian (CombatPlayer) Jensen - Musician</li>
-			    					<li>Anton (Guy-kun) Prydatko - iOS Programmer</li>
+			    					<li>Jeremy (Dani) Miller - Autor/Programista/Kierownik Projektu (<a href = "http://jeremyrmiller.com">strona</a>)</li>
+			    					<li>Saimon (Doomfest) Ma - Dyrektor Artystyczny (<a href = "http://doomfest.com">strona</a>)</li>
+			   						<li>Terrence (Swifdemon) Smith - Autor/Programista</li>
+			    					<li>Cherisse (Null Dizzy) Smith - Edytor</li>
+			    					<li>Kristian (CombatPlayer) Jensen - Muzyk</li>
+			    					<li>Anton (Guy-kun) Prydatko - Programista iOS</li>
 			    				</ul>
 							</div>'
 ));
