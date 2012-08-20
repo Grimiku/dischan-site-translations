@@ -13,18 +13,18 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'products'		=> 'Products',
-	'coming'	=> 'Coming',
-	'bestSelling'	=> 'Best Selling',
-	'browseSearch'	=> 'Search',
-	'queryTooLong'	=> 'Error: Search query too long',
-	'queryTooShort'	=> 'Error: Search query too short',
-	'queryBlank'	=> 'Error: Blank Input',
-	'bestSellersLwr'	=> 'best sellers',
-	'highestRatedLwr'	=> 'highest rated',
-	'icons'	=> 'icons',
-	'listView'	=> 'list',
-	'noProductsFound'	=> 'No Products Found',
+	'products'		=> 'Produkty',
+	'coming'	=> 'Nadchodz¹ce',
+	'bestSelling'	=> 'Najlepiej sprzedaj¹ce siê',
+	'browseSearch'	=> 'Szukaj',
+	'queryTooLong'	=> 'B³¹d: zapytanie zbyt d³ugie',
+	'queryTooShort'	=> 'B³¹d: zapytanie zbyt krótkie',
+	'queryBlank'	=> 'B³¹d: puste zapytanie ',
+	'bestSellersLwr'	=> 'bestsellery',
+	'highestRatedLwr'	=> 'najwy¿ej ocenione',
+	'icons'	=> 'ikony',
+	'listView'	=> 'lista',
+	'noProductsFound'	=> 'Nie znaleziono produktu',
 	'max'	=> 'max',
 ));
 
