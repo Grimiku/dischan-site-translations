@@ -13,32 +13,32 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'details'				=> 'szczegó³y',
+	'details'				=> 'szczegÃ³Å‚y',
 	'confirmation'				=> 'potwierdzenie',
-	'payment'	=> 'zap³ata',
+	'payment'	=> 'zapÅ‚ata',
 	'finish'		=> 'koniec',
-	'thankYouExcl'		=> 'Dziêkujê!',
-	'youreAwesome'		=> 'Jesteœ <i>niesamowity</i>.',
-	'loggedInPurchaseConf'	=> 'Kwit zosta³ wys³any na email powi¹zany z twoim kontem na dischanie. Jakiekolwiek cyfrowe produkty bêd¹ dostêpne w twojej <a href = "library.php">bibliotece</a> z ukoñczeniem transakcji.<br /><br />
-							Dziêkujemy bardzo za twoje zainteresowanie. Jeœli masz jakiœ problem, nie wahaj siê <a href = "http://dischan.org/contact.php">skontaktowaæ z nami</a>.',
-	'guestPurchaseConf'		=> 'Kwit zosta³ wys³any na email powi¹zany twoim kontem PayPal. Za³¹czone s¹ równie¿ linki do pobierania i numery seryjne jakichkolwiek produktów cyfrowych.<br /><br />
-							Dziêkujemy bardzo za twoje zainteresowanie. Jeœli masz jakiœ problem, nie wahaj siê <a href = "http://dischan.org/contact.php">skontaktowaæ z nami</a>.',
-	'returnToStore'		=> 'wróæ do sklepu',
+	'thankYouExcl'		=> 'DziÄ™kujÄ™!',
+	'youreAwesome'		=> 'JesteÅ› <i>niesamowity</i>.',
+	'loggedInPurchaseConf'	=> 'Kwit zostaÅ‚ wysÅ‚any na email powiÄ…zany z twoim kontem na dischanie. Jakiekolwiek cyfrowe produkty bÄ™dÄ… dostÄ™pne w twojej <a href = "library.php">bibliotece</a> z ukoÅ„czeniem transakcji.<br /><br />
+							DziÄ™kujemy bardzo za twoje zainteresowanie. JeÅ›li masz jakiÅ› problem, nie wahaj siÄ™ <a href = "http://dischan.org/contact.php">skontaktowaÄ‡ z nami</a>.',
+	'guestPurchaseConf'		=> 'Kwit zostaÅ‚ wysÅ‚any na email powiÄ…zany twoim kontem PayPal. ZaÅ‚Ä…czone sÄ… rÃ³wnieÅ¼ linki do pobierania i numery seryjne jakichkolwiek produktÃ³w cyfrowych.<br /><br />
+							DziÄ™kujemy bardzo za twoje zainteresowanie. JeÅ›li masz jakiÅ› problem, nie wahaj siÄ™ <a href = "http://dischan.org/contact.php">skontaktowaÄ‡ z nami</a>.',
+	'returnToStore'		=> 'wrÃ³Ä‡ do sklepu',
 	'comfirmationUppr'		=> 'Potwierdzenie',
-	'shippingHandlingCost'		=> 'wysy³ka',
+	'shippingHandlingCost'		=> 'wysyÅ‚ka',
 	'total'		=> 'Suma',
-	'reviewOrder'		=> 'Prosimy sprawdziæ zamówienie przed kontynuowaniem transakcji.',
-	'dischanCartPaypal'		=> 'Twój zakup pojawi siê w PayPalu jako \'Dischan Cart\'.',
-	'purchaseTOS'		=> 'Proszê zauwa¿yæ, ¿e przez zakup 
-									w sklepie dischana, zgadzasz siê z naszymi <a target="_blank" href = "../termsandconditions.php">warunkami us³ugi</a> i <a target="_blank" href = "../privacypolicy.php">polityk¹ prywatnoœci</a>.',
+	'reviewOrder'		=> 'Prosimy sprawdziÄ‡ zamÃ³wienie przed kontynuowaniem transakcji.',
+	'dischanCartPaypal'		=> 'TwÃ³j zakup pojawi siÄ™ w PayPalu jako \'Dischan Cart\'.',
+	'purchaseTOS'		=> 'ProszÄ™ zauwaÅ¼yÄ‡, Å¼e przez zakup 
+									w sklepie dischana, zgadzasz siÄ™ z naszymi <a target="_blank" href = "../termsandconditions.php">warunkami usÅ‚ugi</a> i <a target="_blank" href = "../privacypolicy.php">politykÄ… prywatnoÅ›ci</a>.',
 	'giftCaps'		=> 'PODARUNEK',
-	'cartEmpty'		=> 'Wygl¹da na to, ¿e twój koszyk jest pusty! Proszê wróciæ do <a href = "index.php">sklepu</a>. Jeœli s¹dzisz, ¿e widzisz tê wiadomoœæ w skutek b³êdu, prosimy <a href = "http://dischan.org/contact.php">skontaktowaæ siê z nami.</a>',
-	'signUp'		=> 'Zarejestruj siê',
-	'checkoutLoginMsg'		=> 'Loguj¹c lub rejestruj¹c siê pozwalasz nam do³¹czyæ twoje zakupydo twojego konta i przechowywaæ je w twojej bibliotece. To u³atwia tobie pobieranie póŸniej twoich gier, muzyki i/lub innych produktów.',
-	'guestCheckout'		=> 'Kasa dla goœci',
-	'guestCheckMsg1'		=> 'Konto goœcia u¿yje twojego emaila z PayPala do przechowywania twoich zakupów. Wszystkie cyfrowe produkty pobierzesz podaj¹c swój email i numer seryjny produktu. Zarejestrowanie lub zalogowanie siê jest zalecan¹
-					metod¹ do robienia zakupów.',
-	'guestCheckMsg2'		=> 'Zauwa¿, ¿e w ka¿dej chwili po zakupie mo¿esz nadal utworzyæ konto i dodaæ swoje produkty u¿ywaj¹c adresu email z paypala i numerów seryjnych.',
+	'cartEmpty'		=> 'WyglÄ…da na to, Å¼e twÃ³j koszyk jest pusty! ProszÄ™ wrÃ³ciÄ‡ do <a href = "index.php">sklepu</a>. JeÅ›li sÄ…dzisz, Å¼e widzisz tÄ™ wiadomoÅ›Ä‡ w skutek bÅ‚Ä™du, prosimy <a href = "http://dischan.org/contact.php">skontaktowaÄ‡ siÄ™ z nami.</a>',
+	'signUp'		=> 'Zarejestruj siÄ™',
+	'checkoutLoginMsg'		=> 'LogujÄ…c lub rejestrujÄ…c siÄ™ pozwalasz nam doÅ‚Ä…czyÄ‡ twoje zakupydo twojego konta i przechowywaÄ‡ je w twojej bibliotece. To uÅ‚atwia tobie pobieranie pÃ³Åºniej twoich gier, muzyki i/lub innych produktÃ³w.',
+	'guestCheckout'		=> 'Kasa dla goÅ›ci',
+	'guestCheckMsg1'		=> 'Konto goÅ›cia uÅ¼yje twojego emaila z PayPala do przechowywania twoich zakupÃ³w. Wszystkie cyfrowe produkty pobierzesz podajÄ…c swÃ³j email i numer seryjny produktu. Zarejestrowanie lub zalogowanie siÄ™ jest zalecanÄ…
+					metodÄ… do robienia zakupÃ³w.',
+	'guestCheckMsg2'		=> 'ZauwaÅ¼, Å¼e w kaÅ¼dej chwili po zakupie moÅ¼esz nadal utworzyÄ‡ konto i dodaÄ‡ swoje produkty uÅ¼ywajÄ…c adresu email z paypala i numerÃ³w seryjnych.',
 					
 ));
 

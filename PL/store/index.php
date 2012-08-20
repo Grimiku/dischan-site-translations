@@ -14,7 +14,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'featured'				=> 'Polecane',
-	'noFeatured'				=> 'Brak polecanych produktów',
+	'noFeatured'				=> 'Brak polecanych produktÃ³w',
 ));
 
 ?>
