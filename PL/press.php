@@ -14,10 +14,9 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'press'				=> 'Press',
-	'pressPara'				=> '<p>Are you doing a story on visual novels? Interested in writing about Dischan or its products? If you
-							have any questions, or would like an interview with any member of the team, please send us a message via our <a href = "contact.php">contact form</a>.</p>
+	'pressPara'				=> '<p>Robisz artykuł o grach z gatunku visual novel? Jesteś zainteresowany o pisaniu na temat Dischana lub jego produkcjach? Jeśli masz jakieś pytania lub chciałbyś przeprowadzić wywiad z dowolnym członkiem zespołu, wyślij do nas wiadomość za pośrednictwem <a href = "contact.php">formularza kontaktowego</a>.</p>
 							<br />
-							<p>There is also a <a href = "files/press_package.zip">press package</a> which you can download. It contains some graphics you can use, as well as cursory information about Dischan and its products.</p>',
+							<p>Możesz tu również pobrać <a href = "files/press_package.zip">materiały promocyjne</a>. Zawierają grafiki, które możesz użyć, jak i podstawowe informacje o Dischanie i jego produkcjach.</p>',
 ));
 
 ?>
