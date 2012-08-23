@@ -13,27 +13,27 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'forumRules'		=> 'Forum rules',
-	'forumRulesPara'	=> '<p>Posting any of the below can result in a temporary or permanent ban from the forums:</p> 
+	'forumRules'		=> 'Zasady Forum',
+	'forumRulesPara'	=> '<p>Zamieszczanie którychkolwiek z poniższych treści może skutkować tymczasowym lub trwałym banem na forum:</p> 
 							<ul>
-								<li>Illegal content as determined by Canadian and/or United States law</li>
-								<li>Pornography</li>
-								<li>Excessive profanity</li>
-								<li>Advertising and/or spam</li>
+								<li>Nielegalna zawartość określona przez kanadyjskie i/lub amerykańskie prawo</li>
+								<li>Pornografia</li>
+								<li>Nadmierne wulgaryzmy</li>
+								<li>Reklamy i/lub spam</li>
 							</ul>
-							<p>Moderators may also ban users of their own discretion, if you believe you have been falsely or unfairly banned, please <a href = "contact.php">contact us</a>.</p>',
-	'forumUse'		=> 'Using the forum',
-	'forumUsePara'	=> '<p>There are some tags that allow you to format your posts on the forum. They are as follows:</p>
+							<p>Moderatorzy mogą również banować użytkowników wedle własnego uznania. Jeśli uważasz, że zostałeś niesprawiedliwie osądzony, proszę się <a href = "contact.php">z nami skontaktować</a>.</p>',
+	'forumUse'		=> 'Korzystanie z forum',
+	'forumUsePara'	=> '<p>Poniższe znaczniki pozwalają formatować twoje posty na forum:</p>
 							<ul>
-								<li>Strikethrough - Use: [s]strikethrough text[/s] - Example: <s>strikethrough text</s></li>
-								<li>Bold - Use: [b]bold text[/b] - Example: <b>bold text</b></li>
-								<li>Italics - Use: [i]italicised text[/i] - Example: <i>italicised</i></li>
-								<li>Spoilers - Use: [spoiler]spoiler[/spoiler] - Example: <p class = "spoiler">spoiler</p></li>
+								<li>Przekreślenie - Użyj: [s]przekreślony tekst[/s] - Przykład: <s>przekreślony tekst</s></li>
+								<li>Pogrubienie - Użyj: [b]pogrubiony tekst[/b] - Przykład: <b>pogrubiony tekst</b></li>
+								<li>Kursywa - Użyj: [i]pochylony tekst[/i] - Przykład: <i>pochylony tekst</i></li>
+								<li>Spoiler - Użyj: [spoiler]spoiler[/spoiler] - Przykład: <p class = "spoiler">spoiler</p></li>
 							</ul>
-							<p>Some notes:</p>
+							<p>Kilka uwag:</p>
 							<ul>
-								<li>Links automatically linkify</li>
-								<li>Hovering over an image will show the original image\'s filename</li>
+								<li>Wklejony link sam przekształci sie w hiperłącze</li>
+								<li>Gdy najedziesz kursorem na obrazek, pokaże się jego oryginalna nazwa</li>
 							</ul>',
 ));
 
