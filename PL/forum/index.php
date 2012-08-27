@@ -13,8 +13,8 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'threads'				=> 'threads',
-	'noCats'				=> 'No Categories Yet!',
+	'threads'				=> 'tematów',
+	'noCats'				=> 'Brak nowych wątków!',
 ));
 
 ?>
