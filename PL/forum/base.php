@@ -13,14 +13,14 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'index'				=> 'index',
-	'categories'				=> 'Categories',
-	'forums'		=> 'Forums',
-	'posts'	=> 'Posts',
-	'users'			=> 'Users',
-	'databaseSize'		=> 'Database Size',
-	'forumRules'			=> 'Forum rules and use.',
-	'forumDisclaimer'				=> 'All posts and contents therein are the responsibility of the poster.',
+	'index'				=> 'indeks',
+	'categories'				=> 'Kategorie',
+	'forums'		=> 'Fora',
+	'posts'	=> 'Posty',
+	'users'			=> 'Użytkownicy',
+	'databaseSize'		=> 'Rozmiar bazy danych',
+	'forumRules'			=> 'Zasady forum',
+	'forumDisclaimer'				=> 'ZA wszystkie posty i ich zawartość na forum odpowiedzialny jest postujący.',
 ));
 
 ?>
