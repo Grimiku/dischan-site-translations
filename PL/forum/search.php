@@ -13,12 +13,12 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'search'				=> 'search',
-	'queryShort'				=> 'Query too short',
-	'resultsFor'		=> 'Results for',
+	'search'				=> 'szukaj',
+	'queryShort'				=> 'Zapytanie zbyt krótkie',
+	'resultsFor'		=> 'Wyniki dla',
 	'max'	=> 'max',
-	'postedIn'			=> 'posted in',
-	'noResults'		=> 'No results found for',
+	'postedIn'			=> 'zamieszczone w',
+	'noResults'		=> 'Brak wyników dla',
 ));
 
 ?>
