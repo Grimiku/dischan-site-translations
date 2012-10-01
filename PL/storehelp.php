@@ -13,20 +13,20 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'storeHelp'				=> 'Store Help',
-	'sotreHelpPara'				=> 'If you have any issues or questions concerning the Dischan store, please check the frequently asked questions below. If this does not resolve your issue, then you are encouraged to <a href = "contact.php">contact us</a>, including all information you may believe relevant. We will get back to you as soon as we can.',
-	'storeFAQ'		=> 'Store FAQ',
-	'storeFAQPara'	=> '<p><b>Does the Dischan store allow gifting?</b></p>
-							<p>Yes! You can gift to another Dischan user, or to an email address. Just navigate to a product page and click "Gift".</p>
+	'storeHelp'				=> 'Pomoc',
+	'sotreHelpPara'				=> 'Jeśli masz jakieś problemy lub pytania dotyczące sklepu Dischan, sprawdź najczęściej zadawane pytania poniżej. Jeśli to nie rozwiąże problemu, wówczas proszę się z nami <a href = "contact.php">skontaktować</a>, dołączając wszystkie istotne informacje. Zwrócimy się do ciebie tak szybko, jak to możliwe.',
+	'storeFAQ'		=> 'FAQ',
+	'storeFAQPara'	=> '<p><b>Czy sklep Dischan umożliwia wysyłanie jako prezent?</b></p>
+							<p>Tak! Możesz obdarować innego użytkownika Dischana lub wysłać na czyjś adres email. Wystarczy przejść na stronę produktu i kliknąć "Gift".</p>
 							<br />
-							<p><b>Does Dischan allow international purchases?</b></p>
-							<p>Yes! We use PayPal as our payment processor, and anything they accept we do too. However, for items that require shipping, it is best to contact us first if you are outside of the United States or Canada.</p>
+							<p><b>Czy Dischan pozwala na zakupy międzynarodowe?</b></p>
+							<p>Tak! Używamy PayPala jako nasz system płatności i wszystko co on akceptuje, my również. Jednak w przypadku produktów wymagających wysyłki, najlepiej najpierw się z nami skontaktować, jeśli jesteś spoza Stanów Zjednoczonych lub Kanady.</p>
 							<br />
-							<p><b>How do digital product downloads work?</b></p>
-							<p>If you purchase your digital content with a Dischan account, then it is added to your library to be downloaded at any time. If you do not use a Dischan account, then a serial for your product will be sent to your PayPal email. You can use this serial in conjunction with your PayPal email to download your products.</p>
+							<p><b>Jak działa pobieranie produktów cyfrowych?</b></p>
+							<p>Jeśli kupisz produkt poprzez konto Dischan, zostanie on dodany do twojej biblioteki i będzie możliwy do pobrania w dowolnym czasie. Jeśli nie używasz konta Dischan, wtedy klucz do produktu będzie wysłany na twój adres email z konta PayPal. Możesz użyć tego klucza w połączeniu z twoim emailem na koncie PayPal, aby pobrać produkty.</p>
 							<br />
-							<p><b>I haven\'t received my email after purchase, what do I do?</b></p>
-							<p>Please wait for at least 30 minutes after your purchase, and be sure to check your junk or spam folder. If it still does not arrive, please <a href = "contact.php">contact us</a> with your PayPal transaction ID or receipt number and the username or email you used to purchase. We will work to resolve the issue as quickly as possible.</p>',
+							<p><b>Nie otrzymałem wiadomości zwrotnej po dokonaniu zakupiu, co powinienem zrobić?</b></p>
+							<p>Proszę poczekać co najmniej 30 minut i koniecznie sprawdzić folder Spam. Jeśli wiadomość nadal nie doszła, proszę się z nami  <a href = "contact.php">skontaktować</a> podając ID twojej transakcji na PayPalu lub numer pokwitowania oraz nazwę użytkownika lub adres email, którego użyłeś przy zakupie. Postaramy się rozwiązać ten problem możliwie najszybciej.</p>',
 ));
 
 ?>
