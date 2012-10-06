@@ -19,26 +19,26 @@ $siteStrings = array_merge($siteStrings, array(
 	'finish'		=> 'koniec',
 	'thankYouExcl'		=> 'Dziękuję!',
 	'youreAwesome'		=> 'Jesteś <i>niesamowity</i>.',
-	'loggedInPurchaseConf'	=> 'Kwit został wysłany na email powiązany z twoim kontem na dischanie. Jakiekolwiek cyfrowe produkty będą dostępne w twojej <a href = "library.php">bibliotece</a> z ukończeniem transakcji.<br /><br />
-							Dziękujemy bardzo za twoje zainteresowanie. Jeśli masz jakiś problem, nie wahaj się <a href = "http://dischan.org/contact.php">skontaktować z nami</a>.',
-	'guestPurchaseConf'		=> 'Kwit został wysłany na email powiązany twoim kontem PayPal. Załączone są również linki do pobierania i numery seryjne jakichkolwiek produktów cyfrowych.<br /><br />
-							Dziękujemy bardzo za twoje zainteresowanie. Jeśli masz jakiś problem, nie wahaj się <a href = "http://dischan.org/contact.php">skontaktować z nami</a>.',
+	'loggedInPurchaseConf'	=> 'Kwit został wysłany na email powiązany z twoim kontem na Dischanie. Wszelkie produkty cyfrowe będą dostępne w twojej <a href = "library.php">bibliotece</a> z ukończeniem transakcji.<br /><br />
+							Dziękujemy bardzo za twoje zainteresowanie. Jeśli masz jakiś problem, proszę się z nami <a href = "http://dischan.org/contact.php">skontaktować</a>',
+	'guestPurchaseConf'		=> 'Kwit został wysłany na email powiązany z twoim kontem PayPal. Załączone są również linki do pobierania i numery seryjne jakichkolwiek produktów cyfrowych.<br /><br />
+							Dziękujemy bardzo za twoje zainteresowanie. Jeśli masz jakiś problem, proszę się z nami <a href = "http://dischan.org/contact.php">skontaktować</a>.',
 	'returnToStore'		=> 'wróć do sklepu',
 	'comfirmationUppr'		=> 'Potwierdzenie',
 	'shippingHandlingCost'		=> 'wysyłka',
 	'total'		=> 'Suma',
 	'reviewOrder'		=> 'Prosimy sprawdzić zamówienie przed kontynuowaniem transakcji.',
 	'dischanCartPaypal'		=> 'Twój zakup pojawi się w PayPalu jako \'Dischan Cart\'.',
-	'purchaseTOS'		=> 'Proszę zauważyć, że przez zakup 
-									w sklepie dischana, zgadzasz się z naszymi <a target="_blank" href = "../termsandconditions.php">warunkami usługi</a> i <a target="_blank" href = "../privacypolicy.php">polityką prywatności</a>.',
+	'purchaseTOS'		=> 'Proszę zauważyć, że kupując 
+									w sklepie Dischana akceptujesz nasze <a target="_blank" href = "../termsandconditions.php">warunki korzystania z serwisu</a> oraz <a target="_blank" href = "../privacypolicy.php">politykę prywatności</a>.',
 	'giftCaps'		=> 'PODARUNEK',
-	'cartEmpty'		=> 'Wygląda na to, że twój koszyk jest pusty! Proszę wrócić do <a href = "index.php">sklepu</a>. Jeśli sądzisz, że widzisz tę wiadomość w skutek błędu, prosimy <a href = "http://dischan.org/contact.php">skontaktować się z nami.</a>',
+	'cartEmpty'		=> 'Wygląda na to, że twój koszyk jest pusty! Proszę wrócić do <a href = "index.php">sklepu</a>. Jeśli sądzisz, że widzisz tę wiadomość w skutek błędu, proszę się z nami <a href = "http://dischan.org/contact.php">skontaktować.</a>',
 	'signUp'		=> 'Zarejestruj się',
-	'checkoutLoginMsg'		=> 'Logując lub rejestrując się pozwalasz nam dołączyć twoje zakupydo twojego konta i przechowywać je w twojej bibliotece. To ułatwia tobie pobieranie później twoich gier, muzyki i/lub innych produktów.',
+	'checkoutLoginMsg'		=> 'Logując lub rejestrując się pozwalasz nam powiązać twoje zakupy z twoim kontem i przechowywać je w twojej bibliotece. To ułatwia ci pobieranie później twoich gier, muzyki i/lub innych produktów.',
 	'guestCheckout'		=> 'Kasa dla gości',
-	'guestCheckMsg1'		=> 'Konto gościa użyje twojego emaila z PayPala do przechowywania twoich zakupów. Wszystkie cyfrowe produkty pobierzesz podając swój email i numer seryjny produktu. Zarejestrowanie lub zalogowanie się jest zalecaną
+	'guestCheckMsg1'		=> 'Konto gościa użyje twojego emaila z PayPala do przechowywania twoich zakupów. Wszystkie produkty cyfrowe pobierzesz podając swój email i numer seryjny produktu. Zarejestrowanie lub zalogowanie się jest zalecaną
 					metodą do robienia zakupów.',
-	'guestCheckMsg2'		=> 'Zauważ, że w każdej chwili po zakupie możesz nadal utworzyć konto i dodać swoje produkty używając adresu email z paypala i numerów seryjnych.',
+	'guestCheckMsg2'		=> 'Zauważ, że w każdej chwili po zakupie możesz nadal utworzyć konto i dodać swoje produkty używając adresu email z PayPala i numerów seryjnych.',
 					
 ));
 

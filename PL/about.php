@@ -18,7 +18,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<div class = "leftContentText">
 								<p>Dischan Media to międzynarodowe studio koncentrujące się na tworzeniu sztuki, muzyki, literatury i designu w najwyższym stopniu doskonałości. Założone przez Jeremiego Millera w lecie 2009 roku w wyniku starań w celu stworzenia kolaboracyjnej, wysokiej jakości visual novel na rynek zachodni.</p>
 								<br />
-								<p>Od tamtej pory rozrósł się zarówno w przeznaczeniu jak i personelu. Dischan składa się teraz z kilku utalentowanych osób o wspólnej wizji zapewnienia pięknych przeżyć dla wszystkich, wszędzie.</p>
+								<p>Od tamtej pory rozrósł się zarówno w przeznaczeniu jak i personelu. Dischan składa się teraz z kilku utalentowanych osób o wspólnej wizji zapewnienia pięknych przeżyć dla wszystkich i wszędzie.</p>
 							</div>',
 	'aboutSecondPara'	=> '<h1>Twórcy</h1>
 							<hr />

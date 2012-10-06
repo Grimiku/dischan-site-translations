@@ -13,25 +13,25 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'libraryLWR'				=> 'library',
-	'redeemSerials'				=> 'redeem serials',
-	'libraryEmpty'	=> 'Your library is empty!',
-	'libraryEmptyPara'		=> '<p>Try browsing around the <a href = "index.php">store</a>. You might find something you like.
+	'libraryLWR'				=> 'biblioteka',
+	'redeemSerials'				=> 'użyj klucza',
+	'libraryEmpty'	=> 'Twoja biblioteka jest pusta!',
+	'libraryEmptyPara'		=> '<p>Spróbuj rozejrzeć się po <a href = "index.php">sklepie</a>. Może znajdziesz coś interesującego.
 							<br />
 							<br />
-							Or, if you have a digital product serial, you can redeem it <a href = "redeem.php">here</a>.
+							Jeżeli posiadasz klucz do produktu cyfrowego, możesz go użyć <a href = "redeem.php">tutaj</a>.
 							</p>',
-	'recipient'		=> 'recipient',
-	'nothingYet'		=> 'Nothing yet!',
-	'byGenre'				=> 'By Genre',
-	'byType'		=> 'By Type',
+	'recipient'		=> 'odbiorca',
+	'nothingYet'		=> 'Jeszcze nic nie ma!',
+	'byGenre'				=> 'Według Gatunku',
+	'byType'		=> 'Według Typu',
 	'info'		=> 'Info',
-	'redeemSerials'		=> 'Redeem Serials',
-	'support'		=> 'Support',
-	'helpFAQ'		=> 'Help/FAQ',
-	'tAndCond'		=> 'Terms and Conditions',
-	'priPolicy'		=> 'Privacy Policy',
-	'contact'		=> 'Contact',
+	'redeemSerials'		=> 'Użyj Klucza',
+	'support'		=> 'Wsparcie',
+	'helpFAQ'		=> 'Pomoc/FAQ',
+	'tAndCond'		=> 'Warunki',
+	'priPolicy'		=> 'Polityka Prywatności',
+	'contact'		=> 'Kontakt',
 ));
 
 ?>

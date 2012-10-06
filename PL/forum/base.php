@@ -20,7 +20,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'users'			=> 'Użytkownicy',
 	'databaseSize'		=> 'Rozmiar bazy danych',
 	'forumRules'			=> 'Zasady forum',
-	'forumDisclaimer'				=> 'Za wszystkie posty i ich zawartość na forum odpowiedzialny jest postujący.',
+	'forumDisclaimer'				=> 'Za wszystkie posty i ich zawartość na forum odpowiada postujący.',
 ));
 
 ?>
