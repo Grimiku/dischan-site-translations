@@ -13,7 +13,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'threads'				=> 'tematów',
+	'threads'				=> 'tematów', // in polish form changes with quantity: 2, 3, 4 tematy 5, 6 .... tematów 
 	'noCats'				=> 'Brak nowych wątków!',
 ));
 

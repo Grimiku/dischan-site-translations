@@ -32,8 +32,8 @@ $siteStrings = array_merge($siteStrings, array(
 	'requiredIf'		=> 'wymagane tylko przy zmianie hasła lub emaila',
 	'options'			=> 'Opcje',
 	'autoSubscribe'		=> 'Automatycznie obserwuj temat, w którym odpowiedziałem',
-	'emailPM'			=> 'Wyślij email gdy otrzymam prywatną wiadomość',
-	'subscribeToNews'	=> 'Subskrybuj Dischan newsletter',
+	'emailPM'			=> 'Wyślij email, gdy otrzymam prywatną wiadomość',
+	'subscribeToNews'	=> 'Subskrybuj do Dischan newsletter',
 	'language'			=> 'Język',
 	'whatsThis'			=> 'co to jest?',
 ));

@@ -14,15 +14,15 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'redeem'				=> 'Użyj klucza',
-	'errorOwned'			=> 'Błąd: Już Posiadasz Ten Produkt',
+	'errorOwned'			=> 'Błąd: już posiadasz ten produkt',
 	'errorOwnedPrt1'	=> 'Wprowadziłeś klucz dla',
-	'errorOwnedPrt2'			=> ', jednak twoje konto już posiada ten produkt. Może rozważysz podarowanie twojego klucza znajomemu? Jeśli uważasz, że widzisz te powiadomienie w skutek błędu, możesz się z nami <a href = "http://dischan.org/contact.php">skontaktować</a>.',
+	'errorOwnedPrt2'			=> ', jednak twoje konto już zawiera ten produkt. Może rozważysz podarowanie twojego klucza znajomemu? Jeśli uważasz, że widzisz te powiadomienie na w skutek błędu, możesz się z nami <a href = "http://dischan.org/contact.php">skontaktować</a>.',
 	'redeemAnother'		=> 'Użyj innego klucza',
 	'serial'		=> 'Klucz',
 	'serialNote'			=> 'Uwzględniona jest wielkość liter!',
 	'success'		=> 'Sukces',
 	'successPrt1'		=> 'Twók klucz dla',
-	'successPrt2'		=> 'został dodany do twojego konta. Teraz możesz pobrać ten produkt w dowolnym czasie w twojej <a href = "library.php">bibliotece</a>.',
+	'successPrt2'		=> 'został dodany do twojego konta. Teraz możesz pobrać ten produkt w dowolnym czasie z twojej <a href = "library.php">biblioteki</a>.',
 	'redeemUppr'		=> 'Użyj klucza',
 	'notice'		=> 'Powiadomienie',
 	'noticeAbuseText'		=> 'Ten klucz został zablokowany z powodu podejrzenia nadużycia. Sprawa zostanie zbadana, jednak możesz się z nami od razu <a href = "http://dischan.org/contact.php">skontaktować</a> jeśli uważasz, że to pomyłka.',

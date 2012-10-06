@@ -14,7 +14,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'internationalTrans'=> 'Tłumaczenia i Internacjonalizacja',
-	'internationalPara'	=> '<p>Dischan próbuje być tak międzynarodowy na ile to możliwe oraz dzielić się naszymi produktami w tak wielu językach jak możemy. W tym celu potrzebujemy pomocy od ciebie.
+	'internationalPara'	=> '<p>Dischan próbuje być tak międzynarodowy, na ile to możliwe oraz dzielić się naszymi produktami w tak wielu językach, jak tylko możemy. W tym celu potrzebujemy pomocy od ciebie.
 							Jeśli pewnie operujesz wieloma językami i zauważysz brakującą wersję językową, proszę się z nami <a href = "contact.php">skontaktować</a>. Będziemy wdzięczni za wsparcie w tłumaczeniu naszych stron
 							lub naszych produktów.</p>
 							<br />

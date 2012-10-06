@@ -19,7 +19,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'libraryEmptyPara'		=> '<p>Spróbuj rozejrzeć się po <a href = "index.php">sklepie</a>. Może znajdziesz coś interesującego.
 							<br />
 							<br />
-							Lub jeśli posiadasz klucz do produktu cyfrowego, możesz go użyć <a href = "redeem.php">tutaj</a>.
+							Jeżeli posiadasz klucz do produktu cyfrowego, możesz go użyć <a href = "redeem.php">tutaj</a>.
 							</p>',
 	'recipient'		=> 'odbiorca',
 	'nothingYet'		=> 'Jeszcze nic nie ma!',

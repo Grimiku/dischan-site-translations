@@ -34,7 +34,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'giftCaps'		=> 'PODARUNEK',
 	'cartEmpty'		=> 'Wygląda na to, że twój koszyk jest pusty! Proszę wrócić do <a href = "index.php">sklepu</a>. Jeśli sądzisz, że widzisz tę wiadomość w skutek błędu, proszę się z nami <a href = "http://dischan.org/contact.php">skontaktować.</a>',
 	'signUp'		=> 'Zarejestruj się',
-	'checkoutLoginMsg'		=> 'Logując lub rejestrując się pozwalasz nam dołączyć twoje zakupy do twojego konta i przechowywać je w twojej bibliotece. To ułatwia ci pobieranie później twoich gier, muzyki i/lub innych produktów.',
+	'checkoutLoginMsg'		=> 'Logując lub rejestrując się pozwalasz nam powiązać twoje zakupy z twoim kontem i przechowywać je w twojej bibliotece. To ułatwia ci pobieranie później twoich gier, muzyki i/lub innych produktów.',
 	'guestCheckout'		=> 'Kasa dla gości',
 	'guestCheckMsg1'		=> 'Konto gościa użyje twojego emaila z PayPala do przechowywania twoich zakupów. Wszystkie produkty cyfrowe pobierzesz podając swój email i numer seryjny produktu. Zarejestrowanie lub zalogowanie się jest zalecaną
 					metodą do robienia zakupów.',

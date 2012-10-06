@@ -35,7 +35,7 @@ $siteStrings = array_merge($siteStrings, array(
 								<li>Biegłość w obsłudze Photoshopa</li>
 								<li>Doświadczenie w tworzeniu i modyfikowaniu grafiki cyfrowej</li>
 							</ul>
-							Kandydaci powinni dołączyć portfolio z ostatnimi pracami jako załącznik lub jako link.
+							Kandydaci powinni dołączyć portfolio z ostatnimi pracami jako załącznik lub link.
 							<br/><br/>
 							<a href = "apply.php?position=ar"><b>Złóż podanie</b></a></p>',
 ));

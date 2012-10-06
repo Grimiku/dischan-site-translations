@@ -14,7 +14,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'newMessagesBefore'	=> 'Masz',
-	'newMessagesAfter'	=> 'nowych wiadomości',
+	'newMessagesAfter'	=> 'nowych wiadomości',// again 1 nowa, 2, 3, 4 nowe, 5, 6 ... nowych, please implement this
 	'newPM'				=> 'Nowa Prywatna Wiadomość',
 	'subject'			=> 'Temat',
 	'from'				=> 'Skąd',
@@ -36,7 +36,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'register'			=> 'Rejestracja',
 	'username'			=> 'Nazwa Użytkownika',
 	'email'				=> 'Email',
-	'confirmPassword'	=> 'Potwierdź Hasłó',
+	'confirmPassword'	=> 'Potwierdź Hasło',
 	'subscribeNews'		=> 'Subskrybować Dischan newsletter?',
 	'registerTOS'		=> 'Uwaga: Rejestrując się na koncie Dischan, akceptujesz nasze <a target="_blank" href = "termsandconditions.php">warunki korzystana z serwisu</a> oraz <a target="_blank" href = "privacypolicy.php">politykę prywatności</a>.',
 	'backtotop'			=> 'do góry',

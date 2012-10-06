@@ -54,7 +54,7 @@ $siteStrings = array_merge($siteStrings, array(
 								<li>Dostarczanie newsletterów i powiadomień w twoim języku, o ile tłumaczenie jest dostępne.</li>
 							</ol>
 							<p id = "languageMissing"><b>Mój preferowany język nie jest dostępny w opcjach wyboru języka, dlaczego?</b></p>
-							<p>Najprawdopodobniej dlatego, że nie mamy tłumaczenia na twój wybrany język, więc taka opcja nie dałaby żadnego efektu. Jeśli biegle posługujesz się angielskim oraz swoim preferowanym językiem i chciałbyś pomóc przy translacji produktów firmy lub stron na twój język,
+							<p>Najprawdopodobniej dlatego, że nie mamy tłumaczenia na twój wybrany język, więc taka opcja nie dałaby żadnego efektu. Jeśli biegle posługujesz się angielskim oraz swoim preferowanym językiem i chciałbyś pomóc przy translacji naszych produktów lub stron na swój język,
 							proszę odwiedzić stronę <a href = "internationalization.php">Tłumaczenia i Internacjonalizacja</a>.</p>
 							<br />
 							<p id = "languageErrors"><b>Zauważyłem literówkę/błąd w tłumaczeniu/błąd gramatyczny w produkcie Dischana lub na stronie internetowej, co powinienem zrobić?</b></p>

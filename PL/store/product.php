@@ -34,9 +34,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'writeReview'				=> 'Napisz swoją opinię...',
 	'chooseRating'				=> 'wybierz ocenę',
 	'productReviewed'				=> 'Dodałeś recenzję produktu. Dzięki!',
-	'mustPurchase'				=> 'Musisz zakupić ten produkt aby móc go zrecenzować.',
-	'loginRegisterReview'				=> '<a href = "#top">Zaloguj się</a> lub <a style = "cursor:pointer;" onclick ="overlay(\'register\')">zarejestruj</a> aby dodać swoją własną!',
-	'loginRegisterReview2'				=> 'Kupiłeś od nas ten produkt? <a href = "#top">Zaloguj się</a> lub <a style = "cursor:pointer;" onclick ="overlay(\'register\')">zarejestruj</a> aby dodać swoją własną!',
+	'mustPurchase'				=> 'Musisz zakupić ten produkt, aby móc go zrecenzować.',
+	'loginRegisterReview'				=> '<a href = "#top">Zaloguj się</a> lub <a style = "cursor:pointer;" onclick ="overlay(\'register\')">zarejestruj</a>, aby dodać swoją własną!',
+	'loginRegisterReview2'				=> 'Kupiłeś od nas ten produkt? <a href = "#top">Zaloguj się</a> lub <a style = "cursor:pointer;" onclick ="overlay(\'register\')">zarejestruj</a>, aby dodać swoją własną!',
 	'productDetails'				=> 'Informacje o produkcie',
 	'productNotFound'				=> 'Nie znaleziono produktu',
 ));

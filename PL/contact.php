@@ -14,7 +14,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 
 $siteStrings = array_merge($siteStrings, array(
 	'contact'			=> 'Kontakt',
-	'contactText'		=> 'Jeśli chcesz się z nami skontaktować, prosimy wypełnić poniższy formularz. Postaramy się odpowiedzieć tak szybko jak to możliwe.',
+	'contactText'		=> 'Jeśli chcesz się z nami skontaktować, prosimy o wypełnienie poniższego formularza. Postaramy się odpowiedzieć tak szybko, jak jest to możliwe.',
 	'message'			=> 'Wiadomość',
 	'name'				=> 'Imię',
 	'send'				=> 'Wyślij',
