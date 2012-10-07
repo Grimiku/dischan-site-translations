@@ -15,6 +15,7 @@ if (empty($siteStrings) || !is_array($siteStrings))
 $siteStrings = array_merge($siteStrings, array(
 	'details'				=> 'dettagli',
 	'confirmation'				=> 'conferma',
+	'shippingbilling'				=> 'shipping & billing',
 	'payment'	=> 'pagamento',
 	'finish'		=> 'finisci',
 	'thankYouExcl'		=> 'Grazie!',
@@ -25,6 +26,7 @@ $siteStrings = array_merge($siteStrings, array(
 							E\' un piacere fare affari con te! E se hai qualche problema, non esitare a <a href = "http://dischan.org/contact.php">contattarci</a>.',
 	'returnToStore'		=> 'ritorna al negozio',
 	'comfirmationUppr'		=> 'Conferma',
+	'shippingbillingUppr'				=> 'Shipping & Billing Addresses',
 	'shippingHandlingCost'		=> 'spese di spedizione e trasporto',
 	'total'		=> 'Totale',
 	'reviewOrder'		=> 'Controlla accuratamente il tuo ordine prima di procedere.',
@@ -41,6 +43,8 @@ $siteStrings = array_merge($siteStrings, array(
 					prima di fare un acquisto.',
 	'guestCheckMsg2'		=> 'Nota: in qualsiasi momento dopo aver effettuato il tuo acquisto potrai creare un account e associare ad esso i tuoi prodotti usando 
 					la tua email di paypal e i tuoi serial.',
+	'shippingNote'		=> 'Please note that we are only shipping to addresses in the United States of America and Canada at this time. If you live in a different country and would like to order a physical item, please <a href = "../contact.php">contact us</a>.',
+	'shippingGifts'		=> 'Note that if your purchase is a gift, you can enter the recipient\'s address in the shipping form, and we can send it straight to them!',
 					
 ));
 

@@ -89,6 +89,8 @@ $siteStrings = array_merge($siteStrings, array(
 	'giftLimit'			=> 'Лимит по подаркам достигнут. Пожалуйста купите текущие подарки перед тем как добавите больше.',
 	'noSelfGifting'			=> 'Вы не можете дарить подарки себе.',
 	'outboxFull'			=> 'Ваша папка с исходящими письмами полная. Вы не сможете отсылать новые сообщения до тех пор пока вы не удалите несколько старых сообщений.',
+	'invalidAmount'			=> 'Invalid amount.',
+	'alreadyGiven'			=> 'Sorry, but you can\'t give for the same product twice. ):',
 ));
 
 ?>

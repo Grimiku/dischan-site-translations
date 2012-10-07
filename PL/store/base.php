@@ -39,6 +39,8 @@ $siteStrings = array_merge($siteStrings, array(
 	'addAsGift'				=> 'Dodaj jako podarunek',
 	'giveToUser'				=> 'Podaruj użytkownikowi dischana',
 	'giveToGuest'				=> 'Podaruj komuś spoza dischana',
+	'giveBack'				=> 'Give back to this developer',
+	'chooseAmount'				=> 'Choose any amount over $3.00',
 ));
 
 ?>

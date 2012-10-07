@@ -25,7 +25,7 @@ $siteStrings = array_merge($siteStrings, array(
 							<div class = "leftContentText">
 								<p>Membros principais atuais:</p>
 								<ul>
-			    					<li>Jeremy (Dani) Miller - Escritor/Programador/Gestor de projetos</li>
+			    					<li>Jeremy (Dani) Miller - Escritor/Programador/Gestor de projetos (<a href = "http://jeremyrmiller.com">site</a>)</li>
 			    					<li>Saimon (Doomfest) Ma - Diretor de arte (<a href = "http://doomfest.com">site</a>)</li>
 			   						<li>Terrence (Swifdemon) Smith - Escritor/Programador</li>
 			    					<li>Cherisse (Null Dizzy) Smith - Editora</li>

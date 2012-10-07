@@ -32,6 +32,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'storeLocked'		=> 'Al momento, il negozio è chiuso per manuntenzione. Riprova più tardi.',
 	'reviewPosted'		=> 'La tua recensione è stata pubblicata! Grazie per aver condiviso la tua opinione.',
 	'giftAdded'			=> 'Regalo aggiunto.',
+	'giveBackAdded'			=> 'Your product has been added to your cart. Thank you for choosing to support this developer!',
 ));
 
 ?>

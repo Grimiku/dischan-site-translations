@@ -39,6 +39,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'addAsGift'				=> 'Add as gift',
 	'giveToUser'				=> 'Give to dischan user',
 	'giveToGuest'				=> 'Give to guest',
+	'giveBack'				=> 'Give back to this developer',
+	'chooseAmount'				=> 'Choose any amount over $3.00',
+
 ));
 
 ?>

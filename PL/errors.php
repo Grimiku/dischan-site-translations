@@ -91,6 +91,11 @@ $siteStrings = array_merge($siteStrings, array(
 	'giftLimit'			=> 'Limit prezentów osiągnięty. Proszę zakupić swoje obecne prezenty zanim dodasz więcej.',
 	'noSelfGifting'			=> 'Nie możesz wysłać prezentu samemu sobie!',
 	'outboxFull'			=> 'Twoja skrzynka nadawcza jest pełna. Nie będziesz mógł wysyłać nowych wiadomości, dopóki nie usuniesz starych',
+<<<<<<< HEAD
+=======
+	'invalidAmount'			=> 'Invalid amount.',
+	'alreadyGiven'			=> 'Sorry, but you can\'t give for the same product twice. ):',
+>>>>>>> Big commit
 ));
 
 ?>

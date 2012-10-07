@@ -91,6 +91,8 @@ $siteStrings = array_merge($siteStrings, array(
 	'giftLimit'			=> 'Gift limit reached. Please purchase your current gifts before adding more.',
 	'noSelfGifting'			=> 'You can\'t add a gift for yourself.',
 	'outboxFull'			=> 'Your outbox is full. You will be unable to send any new messages until you delete some old messages.',
+	'invalidAmount'			=> 'Invalid amount.',
+	'alreadyGiven'			=> 'Sorry, but you can\'t give for the same product twice. ):',
 ));
 
 ?>
