@@ -41,6 +41,8 @@ $siteStrings = array_merge($siteStrings, array(
 					façon de faire des achats.',
 	'guestCheckMsg2'		=> 'Veuillez noter que vous pourrez créer à tout moment un compte après votre achat, et ajouter vos produits sur celui-ci grâce à votre
 					e-mail Paypal et vos clés produits.',
+	'shippingNote'		=> 'Please note that we are only shipping to addresses in the United States of America and Canada at this time. If you live in a different country and would like to order a physical item, please <a href = "../contact.php">contact us</a>.',
+	'shippingGifts'		=> 'Note that if your purchase is a gift, you can enter the recipient\'s address in the shipping form, and we can send it straight to them!',
 					
 ));
 
