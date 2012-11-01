@@ -37,12 +37,12 @@ $siteStrings = array_merge($siteStrings, array(
 	'checkoutLoginMsg'		=> 'Votre connexion ou votre inscription nous permet de joindre vos achats à votre compte et de les enregistrer dans votre bibliothèque. Cela vous aidera lors de vos futurs téléchargements de jeux, musiques, et/ou autres produits.',
 	'guestCheckout'		=> 'Guest Checkout',
 	'guestCheckMsg1'		=> 'Un compte invité utilisera votre e-mail Paypal pour faire le suivi de vos achats. Tout achat digital vous demandera
-					d\'entrer votre e-mail et la clé produit du produit à télécharger. Une connexion ou un enregistrement de compte reste toutefois la meilleure
+					d\'entrer votre e-mail et la clé produit du produit à télécharger. Une connexion ou une inscription sur le site reste toutefois la meilleure
 					façon de faire des achats.',
 	'guestCheckMsg2'		=> 'Veuillez noter que vous pourrez créer à tout moment un compte après votre achat, et ajouter vos produits sur celui-ci grâce à votre
 					e-mail Paypal et vos clés produits.',
-	'shippingNote'		=> 'Please note that we are only shipping to addresses in the United States of America and Canada at this time. If you live in a different country and would like to order a physical item, please <a href = "../contact.php">contact us</a>.',
-	'shippingGifts'		=> 'Note that if your purchase is a gift, you can enter the recipient\'s address in the shipping form, and we can send it straight to them!',
+	'shippingNote'		=> 'Veuillez noter que pour l\'instant, nous expédions uniquement aux États-Unis et au Canada. Si vous résidez dans un autre pays et souhaitez recevoir un bien matériel, veuillez <a href = "../contact.php">nous contacter</a>.',
+	'shippingGifts'		=> 'Si votre achat est un cadeau, vous pouvez entrer l\'adresse du destinataire dans le formulaire d\'expédition. Nous enverrons votre achat directement à cette adresse !',
 					
 ));
 

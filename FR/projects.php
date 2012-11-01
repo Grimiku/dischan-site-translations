@@ -23,15 +23,15 @@ $siteStrings = array_merge($siteStrings, array(
 	'juniperPara'	=> '<p>Juniper\'s Knot est un Visual Novel court et gratuit crée par Dischan lors du NaNoReNo 2012 (Le  NaNoReNo est une compétition annuelle dans laquelle les participants doivent créer un visual novel au court du mois de mars).</p>
 						<br />
 						<p>L\'histoire relate la rencontre entre un garçon et un démon. Vous pouvez télécharger les versions Windows, Mac, Linux et iOS du jeu <a href = "http://junipersknot.dischan.org/">ici</a>. Le matériel de promotion du jeu est disponible ci-dessous.</p>',
-	'cradlePara'			=> '<p>Cradle Song is a visual novel Dischan has been working on since its inception in 2009.</p>
+	'cradlePara'			=> '<p>Cradle Song est un Visual Novel sur lequel Dischan travaille depuis sa création en 2009.</p>
 							<br />
-							<p>A <a href = "http://cradle-song.com/story.php">synopsis of the story</a> is available on the <a href = "http://cradle-song.com/">official cradle song site</a>, as well as <a href = "http://cradle-song.com/characters.php">descriptions for
-							some of the characters</a> from the game.</p>
+							<p>Le <a href = "http://cradle-song.com/story.php">Synopsis de l\'histoire</a> est disponible sur le <a href = "http://cradle-song.com/">Site Officiel de Cradle Song</a>, tout comme la <a href = "http://cradle-song.com/characters.php">description de
+							quelques personnages</a> issus du jeu.</p>
 							<br />
-							<p>In 2011, we released a preview which you can <a href = "http://cradle-song.com/download.php">download</a> and try out for yourself. A trailer for the preview is below.</p>',
-	'projectsPara'		=> '<p>Currently, Dischan\'s main project is a visual novel entitled "Cradle Song". Please visit the <a href = "projects.php?p=1">Cradle Song page</a> to learn more.</p>
+							<p>En 2011, nous avons sorti une version Preview (apperçu du jeu) que vous pouvez <a href = "http://cradle-song.com/download.php">télécharger</a> et essayer. Vous trouverez le trailer de la version preview ci-dessous.</p>',
+	'projectsPara'		=> '<p>Actuellement, Dischan se concentre autour de son projet principal intitulé "Cradle Song". Veuillez visiter la <a href = "projects.php?p=1">page de Cradle Song</a> pour en apprendre plus sur ce Visual Novel.</p>
 							<br />
-							<p>Dischan has also completed a short visual novel entitled "Juniper\'s Knot" for NaNoReNo 2012. Please visit the <a href = "projects.php?p=2">Juniper\'s Knot page</a> to learn more.</p>',
+							<p>Dischan a aussi créé un court Visual Novel intitulé "Juniper\'s Knot" lors du NaNoReNo 2012. Veuillez visiter la <a href = "projects.php?p=2">page de Juniper\'s Knot</a> pour en apprendre davantage.</p>',
 ));
 
 ?>

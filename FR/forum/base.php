@@ -19,7 +19,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'posts'	=> 'Messages',
 	'users'			=> 'Utilisateurs',
 	'databaseSize'		=> 'Taille de la base de données',
-	'forumRules'			=> 'Règles et utilisation du forum.',
+	'forumRules'			=> 'Règles et utilisation du forum',
 	'forumDisclaimer'				=> 'Les messages et leurs contenus sont de la responsabilité des utilisateurs.',
 ));
 
