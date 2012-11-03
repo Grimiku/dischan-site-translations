@@ -13,9 +13,9 @@ if (empty($siteStrings) || !is_array($siteStrings))
 //
 
 $siteStrings = array_merge($siteStrings, array(
-	'index'				=> 'indeks',
+	'index'				=> 'Indeks',
 	'categories'				=> 'Kategorie',
-	'forums'		=> 'Fora',
+	'forums'		=> 'Forum',
 	'posts'	=> 'Posty',
 	'users'			=> 'Użytkownicy',
 	'databaseSize'		=> 'Rozmiar bazy danych',
