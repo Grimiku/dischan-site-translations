@@ -15,50 +15,50 @@ if (empty($siteStrings) || !is_array($siteStrings))
 $siteStrings = array_merge($siteStrings, array(
 	'frequentlyAskedQ'	=> 'Questions Fréquemment Posées',
 	'freqPara'				=> '<p>
-								<a href = "#release">When will Cradle Song be released?</a><br />
-								<a href = "#commercial">Will Cradle Song be a commercial game?</a><br />
-								<a href = "#mature">Will Cradle Song contain mature content?</a><br />
-								<a href = "#join">Can I join Dischan?</a><br />
-								<a href = "#translate">Can I translate a Dischan product or website?</a><br />
-								<a href = "#problems">I\'m having an issue with a Dischan product or web site, what should I do?</a><br />
-								<a href = "#language">What is the purpose of the language setting on my account?</a><br />
-								<a href = "#languageMissing">My prefered language is not listed as a language setting, why not?</a><br />
-								<a href = "#languageErrors">I noticed a typo/mistranslation/grammar error in a Dischan product or web site, what should I do?</a>
+								<a href = "#release">Quand sortira Cradle Song ?</a><br />
+								<a href = "#commercial">Cradle Song sera-t-il un jeu payant ?</a><br />
+								<a href = "#mature">Cradle Song contiendra-t-il du contenu mature ?</a><br />
+								<a href = "#join">Pourrais-je rejoindre l\'équipe Dischan ?</a><br />
+								<a href = "#translate">Pourrais-je traduire le site web ou un produit Dischan ?</a><br />
+								<a href = "#problems">Je rencontre un problème avec le site web ou un produit Dischan, que dois-je faire ?</a><br />
+								<a href = "#language">À quoi sert le paramétrage de la langue sur mon compte ?</a><br />
+								<a href = "#languageMissing">Ma langue préférée n\'est pas disponible dans le choix de la langue, pourquoi ?</a><br />
+								<a href = "#languageErrors">J\'ai trouvé une faute de traduction/grammaire sur le site ou dans un produit Dischan, que dois-je faire ?</a>
 							</p>
 							<br />
 							<br />
-							<p id = "release"><b>When will Cradle Song be released?</b></p>
-							<p>There is no set date for Cradle Song\'s release yet, but we are aiming to release a demo in 2012, and hopefully the full game the year after.</p>
+							<p id = "release"><b>Quand sortira Cradle Song ?</b></p>
+							<p>La sortie de Cradle Song n\'a aucune date fixe pour le moment. Nous visons une sortie de la démo courant 2012, et espérons la sortie du jeu complet l\'année suivante.</p>
 							<br />
-							<p id = "commercial"><b>Will Cradle Song be a commercial game?</b></p>
-							<p>Yes. However, we would rather people play it than make a lot of money, so it will not be expensive by any means. Definitely under $10 USD.</p>
+							<p id = "commercial"><b>Cradle Song sera-t-il un jeu payant ?</b></p>
+							<p>Oui. Toutefois, nous préférons que les gens y jouent, plutôt que de faire beaucoup de profit. Le jeu sera proposé à un prix raisonnable. Assurément en dessous de 10$ USD.</p>
 							<br />
-							<p id = "mature"><b>Will Cradle Song contain mature content?</b></p>
-							<p>Yes, Cradle Song will have violence, gore, swearing, and sexual content in some routes. Players should be 17 years or older to play.</p>
+							<p id = "mature"><b>Cradle Song contiendra-t-il du contenu mature ?</b></p>
+							<p>Oui, Cradle Song contiendra de la violence, du sang, des jurons, et du contenu sexuel dans certaines routes. Il faudra avoir 17 ans ou plus pour y jouer.</p>
 							<br />
-							<p id = "join"><b>Can I join Dischan?</b></p>
-							<p>There is an online application form <a href = "apply.php">here</a>.</p>
+							<p id = "join"><b>Pourrais-je rejoindre l\'équipe Dischan ?</b></p>
+							<p>Vous pouvez postuler en utilisant le formulaire de demande disponible <a href = "apply.php">ici</a>.</p>
 							<br />
-							<pid = "translate"><b>Can I translate a Dischan product or website?</b></p>
-							<p>Yes, however working with translators to produce a good translation can be difficult and time consuming, so we have a translation test we request you complete before contacting us.
-							You can find it <a href = "internationalization.php">here</a>.</p>
+							<pid = "translate"><b>Pourrais-je traduire le site web ou un produit Dischan ?</b></p>
+							<p>Oui. Toutefois, travailler avec des traducteurs pour proposer une bonne traduction peut être difficile et prendre beaucoup de temps. Un "Test de Traduction" est mis à votre disposition ; avant de nous contacter, veuillez d\'abord le remplir.
+							Le test est disponible <a href = "internationalization.php">ici</a>.</p>
 							<br />
-							<p id = "problems"><b>I\'m having an issue with a Dischan product or web site, what should I do?</b></p>
-							<p>Please visit our <a href = "support.php">support</a> page.</p>
+							<p id = "problems"><b>Je rencontre un problème avec le site web ou un produit Dischan, que dois-je faire ?</b></p>
+							<p>Veuillez visiter notre page <a href = "support.php">support</a>.</p>
 							<br />
-							<p id = "language"><b>What is the purpose of the language setting on my account?</b></p>
-							<p>We use the language setting on your account for the following:</p>
+							<p id = "language"><b>À quoi sert le paramétrage de la langue sur mon compte ?</b></p>
+							<p>Nous utilisons le paramétrage de la langue sur votre compte pour les raisons suivantes :</p>
 							<ol>
-								<li>Allowing the store to list downloads for games and other products in your language first, if a translation is available (otherwise English is listed first, and the remaining languages in alphabetical order).</li>
-								<li>Displaying components of the site in your language, if a translation is available.</li>
-								<li>Delivering newsletters and notification emails in your language, if a translation is available.</li>
+								<li>Permettre au Store de classer les téléchargements de jeux ou d\'autres produits dans votre langue d\'abord, si celle-ci est disponible (dans le cas contraire, la langue anglaise est la première listée ; les autres langues suivent dans l\'ordre alphabétique).</li>
+								<li>Afficher le contenu du site dans votre langue, si celle-ci est disponible.</li>
+								<li>Permettre l\'envoi de Newsletters et d\'e-mails de notifications dans votre langue, si celle-ci est disponible.</li>
 							</ol>
-							<p id = "languageMissing"><b>My prefered language is not listed as a language setting, why not?</b></p>
-							<p>This is likely because we have no translations for your language, so the setting would have no effect. If you are a fluent speaker of both English and your prefered language, and would like to help translate a site or product into your language,
-							please visit our <a href = "internationalization.php">internationalization and translations</a> page.</p>
+							<p id = "languageMissing"><b>Ma langue préférée n\'est pas disponible dans le choix de la langue, pourquoi ?</b></p>
+							<p>Tout simplement car nous n\'avons pas encore de traductions dans cette langue, le réglage n\'a donc aucun effet. Si vous parlez couramment votre langue préférée et Anglais, et si vous souhaitez nous aider à traduire le site ou un produit Dischan dans votre langue,
+							veuillez visiter notre page <a href = "internationalization.php">Internationalisation et Traductions</a>.</p>
 							<br />
-							<p id = "languageErrors"><b>I noticed a typo/mistranslation/grammar error in a Dischan product or web site, what should I do?</b></p>
-							<p>Please <a href = "contact.php">report this error to us</a>. We will try to fix it.</p>',
+							<p id = "languageErrors"><b>J\'ai trouvé une faute de traduction/grammaire sur le site ou dans un produit Dischan, que dois-je faire ?</b></p>
+							<p>Veuillez nous <a href = "contact.php">signaler cette erreur</a>. Nous essaierons de corriger cela.</p>',
 ));
 
 ?>

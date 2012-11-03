@@ -16,7 +16,7 @@ $siteStrings = array_merge($siteStrings, array(
 	'latestBlog'		=> 'Derniers messages du Blog',
 	'visitBlog'			=> 'visiter le blog',
 	'readTheRest'		=> 'Lire la suite du message',
-	'featuredDL'		=> 'Featured Download',
+	'featuredDL'		=> 'Téléchargement Proposé',
 	'featuredDLTitle'	=> 'Juniper\'s Knot',
 	'featuredDLText'	=> 'Télécharger Juniper\'s Knot ici : <a href = "http://junipersknot.dischan.org/">site officiel</a>.',
 ));

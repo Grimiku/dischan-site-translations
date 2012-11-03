@@ -28,9 +28,9 @@ $siteStrings = array_merge($siteStrings, array(
 	'noticeAbuseText'		=> 'Cette clé produit a été désactivée en raison d\'un soupçon d\'abus. Nous examinerons cette affaire, cependant vous pouvez <a href = "http://dischan.org/contact.php">nous contacter</a> immédiatement si vous pensez que c\'est une erreur.',
 	'invalidCombin'		=> 'E-mail ou clé produit invalide. Veuillez réessayer.',
 	'redeemExplan'		=> 'Vous pouvez récupérer les jeux que vous avez achetés sans compte Dischan en utilisant votre e-mail et votre clé produit. Veuillez entrer ci-dessous les informations demandées.',
-	'impNotice'		=> 'Remarque Importante',
+	'impNotice'		=> 'Remarque Importante ',
 	'impNoticePrt1'		=> 'Toutes les récupérations de clés produits seront attachées à ce compte',
-	'impNoticePrt2'		=> ';  vous devrez vous connecter si vous souhaitez télécharger vos produits. Si vous souhaitez télécharger vos achats sans attacher de clé produit, veuillez d\'abord vous déconnecter.',
+	'impNoticePrt2'		=> ', vous ne pourrez donc plus télécharger vos achats si vous n\'êtes pas connecté(e) sur le site. Si vous souhaitez télécharger vos achats sans attacher votre clé produit, veuillez d\'abord vous déconnecter.',
 	'redeemExplanGue'		=> 'Vous pouvez récupérer les jeux que vous avez achetés sans compte Dischan en utilisant votre e-mail et votre clé produit. Veuillez entrer ci-dessous les informations demandées.',
 ));
 
